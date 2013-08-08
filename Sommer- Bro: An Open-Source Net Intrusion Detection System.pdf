@@ -1,0 +1,2231 @@
+%!PS-Adobe-2.0
+%%Creator: dvips(k) 5.86e Copyright 2001 Radical Eye Software
+%%Title: dfntag03.dvi
+%%Pages: 17
+%%PageOrder: Ascend
+%%BoundingBox: 0 0 596 842
+%%DocumentFonts: Times-Bold Times-Roman Courier Times-Italic Helvetica
+%%DocumentPaperSizes: a4
+%%EndComments
+%DVIPSWebPage: (www.radicaleye.com)
+%DVIPSCommandLine: dvips -t a4 dfntag03.dvi -o dfntag03.ps
+%DVIPSParameters: dpi=600, compressed
+%DVIPSSource:  TeX output 2003.06.04:2031
+%%BeginProcSet: texc.pro
+%!
+/TeXDict 300 dict def TeXDict begin/N{def}def/B{bind def}N/S{exch}N/X{S
+N}B/A{dup}B/TR{translate}N/isls false N/vsize 11 72 mul N/hsize 8.5 72
+mul N/landplus90{false}def/@rigin{isls{[0 landplus90{1 -1}{-1 1}ifelse 0
+0 0]concat}if 72 Resolution div 72 VResolution div neg scale isls{
+landplus90{VResolution 72 div vsize mul 0 exch}{Resolution -72 div hsize
+mul 0}ifelse TR}if Resolution VResolution vsize -72 div 1 add mul TR[
+matrix currentmatrix{A A round sub abs 0.00001 lt{round}if}forall round
+exch round exch]setmatrix}N/@landscape{/isls true N}B/@manualfeed{
+statusdict/manualfeed true put}B/@copies{/#copies X}B/FMat[1 0 0 -1 0 0]
+N/FBB[0 0 0 0]N/nn 0 N/IEn 0 N/ctr 0 N/df-tail{/nn 8 dict N nn begin
+/FontType 3 N/FontMatrix fntrx N/FontBBox FBB N string/base X array
+/BitMaps X/BuildChar{CharBuilder}N/Encoding IEn N end A{/foo setfont}2
+array copy cvx N load 0 nn put/ctr 0 N[}B/sf 0 N/df{/sf 1 N/fntrx FMat N
+df-tail}B/dfs{div/sf X/fntrx[sf 0 0 sf neg 0 0]N df-tail}B/E{pop nn A
+definefont setfont}B/Cw{Cd A length 5 sub get}B/Ch{Cd A length 4 sub get
+}B/Cx{128 Cd A length 3 sub get sub}B/Cy{Cd A length 2 sub get 127 sub}
+B/Cdx{Cd A length 1 sub get}B/Ci{Cd A type/stringtype ne{ctr get/ctr ctr
+1 add N}if}B/id 0 N/rw 0 N/rc 0 N/gp 0 N/cp 0 N/G 0 N/CharBuilder{save 3
+1 roll S A/base get 2 index get S/BitMaps get S get/Cd X pop/ctr 0 N Cdx
+0 Cx Cy Ch sub Cx Cw add Cy setcachedevice Cw Ch true[1 0 0 -1 -.1 Cx
+sub Cy .1 sub]/id Ci N/rw Cw 7 add 8 idiv string N/rc 0 N/gp 0 N/cp 0 N{
+rc 0 ne{rc 1 sub/rc X rw}{G}ifelse}imagemask restore}B/G{{id gp get/gp
+gp 1 add N A 18 mod S 18 idiv pl S get exec}loop}B/adv{cp add/cp X}B
+/chg{rw cp id gp 4 index getinterval putinterval A gp add/gp X adv}B/nd{
+/cp 0 N rw exit}B/lsh{rw cp 2 copy get A 0 eq{pop 1}{A 255 eq{pop 254}{
+A A add 255 and S 1 and or}ifelse}ifelse put 1 adv}B/rsh{rw cp 2 copy
+get A 0 eq{pop 128}{A 255 eq{pop 127}{A 2 idiv S 128 and or}ifelse}
+ifelse put 1 adv}B/clr{rw cp 2 index string putinterval adv}B/set{rw cp
+fillstr 0 4 index getinterval putinterval adv}B/fillstr 18 string 0 1 17
+{2 copy 255 put pop}for N/pl[{adv 1 chg}{adv 1 chg nd}{1 add chg}{1 add
+chg nd}{adv lsh}{adv lsh nd}{adv rsh}{adv rsh nd}{1 add adv}{/rc X nd}{
+1 add set}{1 add clr}{adv 2 chg}{adv 2 chg nd}{pop nd}]A{bind pop}
+forall N/D{/cc X A type/stringtype ne{]}if nn/base get cc ctr put nn
+/BitMaps get S ctr S sf 1 ne{A A length 1 sub A 2 index S get sf div put
+}if put/ctr ctr 1 add N}B/I{cc 1 add D}B/bop{userdict/bop-hook known{
+bop-hook}if/SI save N @rigin 0 0 moveto/V matrix currentmatrix A 1 get A
+mul exch 0 get A mul add .99 lt{/QV}{/RV}ifelse load def pop pop}N/eop{
+SI restore userdict/eop-hook known{eop-hook}if showpage}N/@start{
+userdict/start-hook known{start-hook}if pop/VResolution X/Resolution X
+1000 div/DVImag X/IEn 256 array N 2 string 0 1 255{IEn S A 360 add 36 4
+index cvrs cvn put}for pop 65781.76 div/vsize X 65781.76 div/hsize X}N
+/p{show}N/RMat[1 0 0 -1 0 0]N/BDot 260 string N/Rx 0 N/Ry 0 N/V{}B/RV/v{
+/Ry X/Rx X V}B statusdict begin/product where{pop false[(Display)(NeXT)
+(LaserWriter 16/600)]{A length product length le{A length product exch 0
+exch getinterval eq{pop true exit}if}{pop}ifelse}forall}{false}ifelse
+end{{gsave TR -.1 .1 TR 1 1 scale Rx Ry false RMat{BDot}imagemask
+grestore}}{{gsave TR -.1 .1 TR Rx Ry scale 1 1 false RMat{BDot}
+imagemask grestore}}ifelse B/QV{gsave newpath transform round exch round
+exch itransform moveto Rx 0 rlineto 0 Ry neg rlineto Rx neg 0 rlineto
+fill grestore}B/a{moveto}B/delta 0 N/tail{A/delta X 0 rmoveto}B/M{S p
+delta add tail}B/b{S p tail}B/c{-4 M}B/d{-3 M}B/e{-2 M}B/f{-1 M}B/g{0 M}
+B/h{1 M}B/i{2 M}B/j{3 M}B/k{4 M}B/w{0 rmoveto}B/l{p -4 w}B/m{p -3 w}B/n{
+p -2 w}B/o{p -1 w}B/q{p 1 w}B/r{p 2 w}B/s{p 3 w}B/t{p 4 w}B/x{0 S
+rmoveto}B/y{3 2 roll p a}B/bos{/SS save N}B/eos{SS restore}B end
+
+%%EndProcSet
+%%BeginProcSet: 8r.enc
+% @@psencodingfile@{
+%   author = "S. Rahtz, P. MacKay, Alan Jeffrey, B. Horn, K. Berry",
+%   version = "0.6",
+%   date = "1 July 1998",
+%   filename = "8r.enc",
+%   email = "tex-fonts@@tug.org",
+%   docstring = "Encoding for TrueType or Type 1 fonts
+%                to be used with TeX."
+% @}
+% 
+% Idea is to have all the characters normally included in Type 1 fonts
+% available for typesetting. This is effectively the characters in Adobe
+% Standard Encoding + ISO Latin 1 + extra characters from Lucida.
+% 
+% Character code assignments were made as follows:
+% 
+% (1) the Windows ANSI characters are almost all in their Windows ANSI
+% positions, because some Windows users cannot easily reencode the
+% fonts, and it makes no difference on other systems. The only Windows
+% ANSI characters not available are those that make no sense for
+% typesetting -- rubout (127 decimal), nobreakspace (160), softhyphen
+% (173). quotesingle and grave are moved just because it's such an
+% irritation not having them in TeX positions.
+% 
+% (2) Remaining characters are assigned arbitrarily to the lower part
+% of the range, avoiding 0, 10 and 13 in case we meet dumb software.
+% 
+% (3) Y&Y Lucida Bright includes some extra text characters; in the
+% hopes that other PostScript fonts, perhaps created for public
+% consumption, will include them, they are included starting at 0x12.
+% 
+% (4) Remaining positions left undefined are for use in (hopefully)
+% upward-compatible revisions, if someday more characters are generally
+% available.
+% 
+% (5) hyphen appears twice for compatibility with both 
+% ASCII and Windows.
+% 
+/TeXBase1Encoding [
+% 0x00 (encoded characters from Adobe Standard not in Windows 3.1)
+  /.notdef /dotaccent /fi /fl
+  /fraction /hungarumlaut /Lslash /lslash
+  /ogonek /ring /.notdef
+  /breve /minus /.notdef 
+% These are the only two remaining unencoded characters, so may as
+% well include them.
+  /Zcaron /zcaron 
+% 0x10
+ /caron /dotlessi 
+% (unusual TeX characters available in, e.g., Lucida Bright)
+ /dotlessj /ff /ffi /ffl 
+ /.notdef /.notdef /.notdef /.notdef
+ /.notdef /.notdef /.notdef /.notdef
+ % very contentious; it's so painful not having quoteleft and quoteright
+ % at 96 and 145 that we move the things normally found there to here.
+ /grave /quotesingle 
+% 0x20 (ASCII begins)
+ /space /exclam /quotedbl /numbersign
+ /dollar /percent /ampersand /quoteright
+ /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+% 0x30
+ /zero /one /two /three /four /five /six /seven
+ /eight /nine /colon /semicolon /less /equal /greater /question
+% 0x40
+ /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O
+% 0x50
+ /P /Q /R /S /T /U /V /W
+ /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+% 0x60
+ /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o
+% 0x70
+ /p /q /r /s /t /u /v /w
+ /x /y /z /braceleft /bar /braceright /asciitilde
+ /.notdef % rubout; ASCII ends
+% 0x80
+ /.notdef /.notdef /quotesinglbase /florin
+ /quotedblbase /ellipsis /dagger /daggerdbl
+ /circumflex /perthousand /Scaron /guilsinglleft
+ /OE /.notdef /.notdef /.notdef
+% 0x90
+ /.notdef /.notdef /.notdef /quotedblleft
+ /quotedblright /bullet /endash /emdash
+ /tilde /trademark /scaron /guilsinglright
+ /oe /.notdef /.notdef /Ydieresis
+% 0xA0
+ /.notdef % nobreakspace
+ /exclamdown /cent /sterling
+ /currency /yen /brokenbar /section
+ /dieresis /copyright /ordfeminine /guillemotleft
+ /logicalnot
+ /hyphen % Y&Y (also at 45); Windows' softhyphen
+ /registered
+ /macron
+% 0xD0
+ /degree /plusminus /twosuperior /threesuperior
+ /acute /mu /paragraph /periodcentered
+ /cedilla /onesuperior /ordmasculine /guillemotright
+ /onequarter /onehalf /threequarters /questiondown
+% 0xC0
+ /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+ /Egrave /Eacute /Ecircumflex /Edieresis
+ /Igrave /Iacute /Icircumflex /Idieresis
+% 0xD0
+ /Eth /Ntilde /Ograve /Oacute
+ /Ocircumflex /Otilde /Odieresis /multiply
+ /Oslash /Ugrave /Uacute /Ucircumflex
+ /Udieresis /Yacute /Thorn /germandbls
+% 0xE0
+ /agrave /aacute /acircumflex /atilde
+ /adieresis /aring /ae /ccedilla
+ /egrave /eacute /ecircumflex /edieresis
+ /igrave /iacute /icircumflex /idieresis
+% 0xF0
+ /eth /ntilde /ograve /oacute
+ /ocircumflex /otilde /odieresis /divide
+ /oslash /ugrave /uacute /ucircumflex
+ /udieresis /yacute /thorn /ydieresis
+] def
+
+%%EndProcSet
+%%BeginProcSet: texps.pro
+%!
+TeXDict begin/rf{findfont dup length 1 add dict begin{1 index/FID ne 2
+index/UniqueID ne and{def}{pop pop}ifelse}forall[1 index 0 6 -1 roll
+exec 0 exch 5 -1 roll VResolution Resolution div mul neg 0 0]/Metrics
+exch def dict begin Encoding{exch dup type/integertype ne{pop pop 1 sub
+dup 0 le{pop}{[}ifelse}{FontMatrix 0 get div Metrics 0 get div def}
+ifelse}forall Metrics/Metrics currentdict end def[2 index currentdict
+end definefont 3 -1 roll makefont/setfont cvx]cvx def}def/ObliqueSlant{
+dup sin S cos div neg}B/SlantFont{4 index mul add}def/ExtendFont{3 -1
+roll mul exch}def/ReEncodeFont{CharStrings rcheck{/Encoding false def
+dup[exch{dup CharStrings exch known not{pop/.notdef/Encoding true def}
+if}forall Encoding{]exch pop}{cleartomark}ifelse}if/Encoding exch def}
+def end
+
+%%EndProcSet
+%%BeginProcSet: special.pro
+%!
+TeXDict begin/SDict 200 dict N SDict begin/@SpecialDefaults{/hs 612 N
+/vs 792 N/ho 0 N/vo 0 N/hsc 1 N/vsc 1 N/ang 0 N/CLIP 0 N/rwiSeen false N
+/rhiSeen false N/letter{}N/note{}N/a4{}N/legal{}N}B/@scaleunit 100 N
+/@hscale{@scaleunit div/hsc X}B/@vscale{@scaleunit div/vsc X}B/@hsize{
+/hs X/CLIP 1 N}B/@vsize{/vs X/CLIP 1 N}B/@clip{/CLIP 2 N}B/@hoffset{/ho
+X}B/@voffset{/vo X}B/@angle{/ang X}B/@rwi{10 div/rwi X/rwiSeen true N}B
+/@rhi{10 div/rhi X/rhiSeen true N}B/@llx{/llx X}B/@lly{/lly X}B/@urx{
+/urx X}B/@ury{/ury X}B/magscale true def end/@MacSetUp{userdict/md known
+{userdict/md get type/dicttype eq{userdict begin md length 10 add md
+maxlength ge{/md md dup length 20 add dict copy def}if end md begin
+/letter{}N/note{}N/legal{}N/od{txpose 1 0 mtx defaultmatrix dtransform S
+atan/pa X newpath clippath mark{transform{itransform moveto}}{transform{
+itransform lineto}}{6 -2 roll transform 6 -2 roll transform 6 -2 roll
+transform{itransform 6 2 roll itransform 6 2 roll itransform 6 2 roll
+curveto}}{{closepath}}pathforall newpath counttomark array astore/gc xdf
+pop ct 39 0 put 10 fz 0 fs 2 F/|______Courier fnt invertflag{PaintBlack}
+if}N/txpose{pxs pys scale ppr aload pop por{noflips{pop S neg S TR pop 1
+-1 scale}if xflip yflip and{pop S neg S TR 180 rotate 1 -1 scale ppr 3
+get ppr 1 get neg sub neg ppr 2 get ppr 0 get neg sub neg TR}if xflip
+yflip not and{pop S neg S TR pop 180 rotate ppr 3 get ppr 1 get neg sub
+neg 0 TR}if yflip xflip not and{ppr 1 get neg ppr 0 get neg TR}if}{
+noflips{TR pop pop 270 rotate 1 -1 scale}if xflip yflip and{TR pop pop
+90 rotate 1 -1 scale ppr 3 get ppr 1 get neg sub neg ppr 2 get ppr 0 get
+neg sub neg TR}if xflip yflip not and{TR pop pop 90 rotate ppr 3 get ppr
+1 get neg sub neg 0 TR}if yflip xflip not and{TR pop pop 270 rotate ppr
+2 get ppr 0 get neg sub neg 0 S TR}if}ifelse scaleby96{ppr aload pop 4
+-1 roll add 2 div 3 1 roll add 2 div 2 copy TR .96 dup scale neg S neg S
+TR}if}N/cp{pop pop showpage pm restore}N end}if}if}N/normalscale{
+Resolution 72 div VResolution 72 div neg scale magscale{DVImag dup scale
+}if 0 setgray}N/psfts{S 65781.76 div N}N/startTexFig{/psf$SavedState
+save N userdict maxlength dict begin/magscale true def normalscale
+currentpoint TR/psf$ury psfts/psf$urx psfts/psf$lly psfts/psf$llx psfts
+/psf$y psfts/psf$x psfts currentpoint/psf$cy X/psf$cx X/psf$sx psf$x
+psf$urx psf$llx sub div N/psf$sy psf$y psf$ury psf$lly sub div N psf$sx
+psf$sy scale psf$cx psf$sx div psf$llx sub psf$cy psf$sy div psf$ury sub
+TR/showpage{}N/erasepage{}N/copypage{}N/p 3 def @MacSetUp}N/doclip{
+psf$llx psf$lly psf$urx psf$ury currentpoint 6 2 roll newpath 4 copy 4 2
+roll moveto 6 -1 roll S lineto S lineto S lineto closepath clip newpath
+moveto}N/endTexFig{end psf$SavedState restore}N/@beginspecial{SDict
+begin/SpecialSave save N gsave normalscale currentpoint TR
+@SpecialDefaults count/ocount X/dcount countdictstack N}N/@setspecial{
+CLIP 1 eq{newpath 0 0 moveto hs 0 rlineto 0 vs rlineto hs neg 0 rlineto
+closepath clip}if ho vo TR hsc vsc scale ang rotate rwiSeen{rwi urx llx
+sub div rhiSeen{rhi ury lly sub div}{dup}ifelse scale llx neg lly neg TR
+}{rhiSeen{rhi ury lly sub div dup scale llx neg lly neg TR}if}ifelse
+CLIP 2 eq{newpath llx lly moveto urx lly lineto urx ury lineto llx ury
+lineto closepath clip}if/showpage{}N/erasepage{}N/copypage{}N newpath}N
+/@endspecial{count ocount sub{pop}repeat countdictstack dcount sub{end}
+repeat grestore SpecialSave restore end}N/@defspecial{SDict begin}N
+/@fedspecial{end}B/li{lineto}B/rl{rlineto}B/rc{rcurveto}B/np{/SaveX
+currentpoint/SaveY X N 1 setlinecap newpath}N/st{stroke SaveX SaveY
+moveto}N/fil{fill SaveX SaveY moveto}N/ellipse{/endangle X/startangle X
+/yrad X/xrad X/savematrix matrix currentmatrix N TR xrad yrad scale 0 0
+1 startangle endangle arc savematrix setmatrix}N end
+
+%%EndProcSet
+TeXDict begin 39158280 55380996 1000 600 600 (dfntag03.dvi)
+@start /Fa 138[37 21 29 25 1[37 37 37 58 3[21 3[33 2[37
+33 23[25 31[25 25 40[{.167 SlantFont TeXBase1Encoding ReEncodeFont}15
+74.7198 /Times-Roman rf /Fb 134[33 1[50 33 37 21 29 29
+1[37 37 37 54 21 33 1[21 37 37 21 33 37 33 1[37 7[42
+46 2[54 42 37 46 1[46 1[50 62 42 2[25 3[46 1[50 46 46
+7[37 37 4[37 1[37 37 1[19 25 3[25 25 40[{TeXBase1Encoding ReEncodeFont}
+45 74.7198 /Times-Italic rf
+%DVIPSBitmapFont: Fc cmmi10 10 3
+/Fc 3 68 df<1760177017F01601A21603A21607160FA24C7EA216331673166316C3A2ED
+0183A2ED0303150683150C160115181530A21560A215C014011580DA03007FA202061300
+140E140C5C021FB5FC5CA20260C7FC5C83495A8349C8FC1306A25BA25B13385B01F01680
+487E000716FFB56C013F13FF5EA2383C7DBB3E>65 D<0103B77E4916F018FC903B0007F8
+0003FE4BEB00FFF07F80020FED3FC0181F4B15E0A2141FA25DA2143F19C04B143F198002
+7F157F190092C812FE4D5A4A4A5AEF0FF04AEC1FC005FFC7FC49B612FC5F02FCC7B4FCEF
+3FC00103ED0FE0717E5C717E1307844A1401A2130F17035CA2131F4D5A5C4D5A133F4D5A
+4A4A5A4D5A017F4BC7FC4C5A91C7EA07FC49EC3FF0B812C094C8FC16F83B397DB83F>I<
+9339FF8001C0030F13E0037F9038F80380913A01FF807E07913A07F8000F0FDA1FE0EB07
+9FDA3F80903803BF0002FFC76CB4FCD901FC80495A4948157E495A495A4948153E017F16
+3C49C9FC5B1201484816385B1207485A1830121F4993C7FCA2485AA3127F5BA312FF90CC
+FCA41703A25F1706A26C160E170C171C5F6C7E5F001F5E6D4A5A6C6C4A5A16076C6C020E
+C8FC6C6C143C6C6C5C6CB4495A90393FE00FC0010FB5C9FC010313FC9038007FC03A3D7C
+BA3B>I E
+%EndDVIPSBitmapFont
+%DVIPSBitmapFont: Ff cmsy10 10 1
+/Ff 1 16 df<EB1FF0EBFFFE487F000714C04814E04814F04814F8A24814FCA3B612FEA9
+6C14FCA36C14F8A26C14F06C14E06C14C0000114006C5BEB1FF01F1F7BA42A>15
+D E
+%EndDVIPSBitmapFont
+/Fg 134[45 1[45 45 45 45 45 45 45 45 45 45 45 45 45 1[45
+45 45 45 45 45 45 45 45 1[45 31[45 1[45 2[45 45 45 45
+45 45 45 1[45 45 45 45 45 45 7[45 37[{TeXBase1Encoding ReEncodeFont}40
+74.7198 /Courier rf /Fh 130[35 35 35 1[35 35 35 35 35
+35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35
+35 35 1[35 1[35 35 35 2[35 35 1[35 35 35 35 1[35 35 35
+35 35 35 35 35 35 35 35 35 1[35 35 35 1[35 35 35 35 35
+35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 1[35 35
+35 1[35 35 35 35 35 34[{TeXBase1Encoding ReEncodeFont}81
+58.1154 /Courier rf /Fi 205[25 25 49[{TeXBase1Encoding ReEncodeFont}2
+49.8132 /Times-Roman rf /Fj 139[16 1[19 2[29 29 11[29
+26 13[32 16[39 15[29 29 7[19 19 40[{TeXBase1Encoding ReEncodeFont}12
+58.1154 /Times-Roman rf /Fk 134[33 33 1[33 33 18 26 22
+33 33 33 33 52 18 33 1[18 33 33 22 29 33 29 33 29 12[41
+5[48 1[41 6[41 2[44 19[17 1[17 41[37 2[{TeXBase1Encoding ReEncodeFont}
+31 66.4176 /Times-Roman rf /Fl 133[37 42 2[42 46 28 32
+37 1[46 42 46 69 23 46 1[23 46 42 28 37 46 37 46 42 7[60
+1[83 2[55 46 60 1[51 1[60 78 55 2[32 65 65 51 55 60 60
+1[60 6[28 3[42 42 42 42 42 42 2[21 28 21 41[46 2[{
+TeXBase1Encoding ReEncodeFont}50 83.022 /Times-Bold rf
+/Fm 133[32 37 37 55 37 42 23 32 32 42 42 42 42 60 23
+37 1[23 42 42 23 37 42 37 42 42 11[60 1[42 51 1[51 1[55
+69 46 55 37 28 5[55 51 18[23 1[28 21 2[28 28 28 36[42
+2[{TeXBase1Encoding ReEncodeFont}44 83.022 /Times-Italic
+rf /Fn 133[44 50 50 72 50 55 33 39 44 1[55 50 55 83 28
+55 1[28 55 50 33 44 55 44 1[50 9[100 72 3[72 8[39 78
+1[61 66 72 72 66 72 9[50 50 50 50 50 50 50 3[33 45[{
+TeXBase1Encoding ReEncodeFont}42 99.6264 /Times-Bold
+rf /Fo 105[37 27[33 37 37 54 37 37 21 29 25 1[37 37 37
+58 21 37 1[21 37 37 25 33 37 33 37 33 3[25 1[25 46 54
+54 71 54 54 46 42 50 1[42 54 54 66 46 54 29 25 54 1[42
+46 54 50 50 54 6[21 37 37 37 37 37 37 37 37 37 37 1[19
+25 19 2[25 25 25 3[37 32[42 2[{TeXBase1Encoding ReEncodeFont}70
+74.7198 /Times-Roman rf /Fp 139[25 29 33 14[33 42 37
+31[54 6[25 58[{TeXBase1Encoding ReEncodeFont}8 74.7198
+/Times-Bold rf /Fq 136[50 1[50 50 50 50 50 50 50 50 50
+50 2[50 50 50 50 50 50 50 50 50 7[50 4[50 50 50 1[50
+1[50 50 3[50 50 1[50 50 50 50 1[50 50 10[50 6[50 50 1[50
+50 42[{TeXBase1Encoding ReEncodeFont}40 83.022 /Courier
+rf /Fr 87[28 17[42 1[37 37 24[37 42 42 60 42 42 23 32
+28 42 42 42 42 65 23 42 23 23 42 42 28 37 42 37 42 37
+3[28 1[28 51 60 1[78 60 60 51 46 55 1[46 60 60 74 51
+60 32 28 60 60 46 51 60 55 55 60 5[23 23 42 42 42 42
+42 42 42 42 42 42 23 21 28 21 2[28 28 28 35[46 46 2[{
+TeXBase1Encoding ReEncodeFont}77 83.022 /Times-Roman
+rf /Fs 134[58 1[84 1[65 39 45 52 1[65 58 65 97 1[65 1[32
+3[52 1[52 15[65 3[90 84 4[45 4[84 1[78 84 6[39 58[{
+TeXBase1Encoding ReEncodeFont}22 116.231 /Times-Bold
+rf end
+%%EndProlog
+%%BeginSetup
+%%Feature: *Resolution 600dpi
+TeXDict begin
+%%BeginPaperSize: a4
+a4
+%%EndPaperSize
+
+%%EndSetup
+%%Page: 1 1
+1 0 bop 473 839 a Fs(Br)n(o:)28 b(An)h(Open)f(Sour)n(ce)f(Netw)o(ork)h
+(Intrusion)g(Detection)f(System)1676 1098 y Fr(Robin)19
+b(Sommer)1416 1198 y(Computer)g(Science)h(Department)1531
+1298 y(TU)h(M)7 b(\250)-35 b(unchen,)18 b(German)o(y)1530
+1397 y Fq(sommer@in.tum.de)648 1755 y Fp(Abstract:)27
+b Fo(Bro)20 b(is)h(a)g(po)n(werful,)g(b)o(ut)g(lar)o(gely)g(unkno)n(wn)
+i(open)f(source)f(netw)o(ork)h(intrusion)f(de-)648 1838
+y(tection)c(system.)22 b(Based)c(on)f(a)g(sound)h(design,)g(Bro)f
+(achie)n(v)o(es)h(its)e(main)h(goals)h(\226)f(separating)g(pol-)648
+1921 y(ic)o(y)k(from)g(mechanisms,)h(ef)n(\002cient)f(operation)h(in)f
+(high-v)o(olume)h(netw)o(orks,)g(and)g(withstanding)648
+2004 y(attacks)16 b(against)g(itself)f(\226)h(by)g(using)h(an)f(e)n(v)o
+(ent-dri)n(v)o(en)h(approach.)24 b(Bro)16 b(contains)h(se)n(v)o(eral)f
+(analyz-)648 2087 y(ers)21 b(\(e.g.)33 b(protocol)23
+b(decoders)g(for)f(a)g(v)n(ariety)g(of)g(netw)o(ork)h(protocols)g(and)g
+(a)f(signature)g(match-)648 2170 y(ing)e(engine\),)h(which)g(are)g(by)f
+(themselv)o(es)h(polic)o(y-neutral)h(b)o(ut)e(raise)g(e)n(v)o(ents)h
+(as)f(an)h(abstraction)648 2253 y(of)k(the)h(underlying)i(netw)o(ork)e
+(acti)n(vity)-5 b(.)44 b(Based)26 b(on)h(scripts)e(written)g(in)h(Bro')
+l(s)g(o)n(wn)g(po)n(werful)648 2336 y(scripting)18 b(language,)i(the)f
+(user)f(de\002nes)h(e)n(v)o(ent)h(handlers)f(to)f(specify)h(his)g(en)m
+(vironment-speci\002c)648 2419 y(polic)o(y)-5 b(.)760
+2502 y(W)f(e)25 b(gi)n(v)o(e)h(an)h(o)o(v)o(ervie)n(w)f(about)h(the)f
+(design)h(and)g(implementation)f(of)g(Bro,)i(describe)e(our)648
+2585 y(e)o(xperiences)19 b(with)f(deplo)o(ying)j(it)c(in)i(a)f(lar)o
+(ge-scale)g(research)h(en)m(vironment,)h(and)f(present)g(some)648
+2668 y(of)f(our)i(e)o(xtensions.)440 3019 y Fn(1)99 b(Intr)n(oduction)
+440 3254 y Fr(Due)18 b(to)h(the)f(enormous)f(increase)h(in)h(the)f
+(number)f(of)h(attacks)g(seen)h(on)f(the)g(Internet,)g
+Fm(network)g(intru-)440 3354 y(sion)f(detection)g(systems)h
+Fr(\(NIDSs\))g(are)f(an)g(important)f(part)h(of)g(man)o(y)g(security)g
+(policies.)23 b(In)18 b(contrast)440 3454 y(to)k(a)f
+Fm(host-based)h Fr(intrusion)e(detection)h(system,)g(a)h(NIDS)g
+(usually)e(taps)i(the)f(netw)o(ork)f(at)i(some)g(cen-)440
+3553 y(tral)f(point,)e(monitoring)f(all)j(traf)n(\002c)f(to)g(detect)g
+(malicious)g(acti)n(vity)-5 b(.)25 b(T)m(raditionally)-5
+b(,)17 b(tw)o(o)k(approaches)440 3653 y(to)h(netw)o(ork)e(intrusion)g
+(detection)g(are)i(dif)n(ferentiated:)j(a)d(system)g(using)f
+Fm(anomaly-detection)d Fr(relies)440 3752 y(on)26 b(a)h(de\002nition)e
+(of)h Fm(normal)f Fr(netw)o(ork)g(acti)n(vity)h(and)g(alerts)h(if)f
+(traf)n(\002c)g(de)n(viates)g(from)f(this)i(pro\002le.)440
+3852 y(De)n(viation)21 b(is)h(typically)f(measured)f(using)i
+(statistics.)30 b(On)22 b(the)g(other)f(hand,)f Fm(misuse-detection)h
+Fr(sys-)440 3952 y(tems)28 b(use)g(a)g(library)f(of)g(speci\002c)h
+(attack)f(characteristics)g(and)g(generate)g(an)g(alert)h(whene)n(v)o
+(er)e(the)o(y)440 4051 y(locate)21 b(one)g(of)g(them)g(in)g(the)g
+(monitored)e(traf)n(\002c.)28 b(The)21 b(dra)o(w-back)e(of)i
+(misuse-detection)e(is)j(the)g(dif-)440 4151 y(\002culty)e(of)f
+(recognizing)f(pre)n(viously)g(unkno)n(wn)f(attacks.)25
+b(While)20 b(anomaly-based)d(NIDSs)k(ha)n(v)o(e)e(the)440
+4251 y(potential)e(for)h(this,)h(the)o(y)e(often)h(suf)n(fer)f(from)g
+(a)h(high)g(number)e(of)i(f)o(alse-alarms.)24 b(The)18
+b(most)g(common)440 4350 y(form)f(of)h(misuse)g(detection)e(is)j
+(signature)e(matching:)23 b(the)18 b(NIDS)g(identi\002es)g(an)g(attack)
+f(by)h(recogniz-)440 4450 y(ing)h(a)g(speci\002c)g(byte)f(sequence)g
+(within)g(the)h(netw)o(ork)f(pack)o(ets.)24 b(Most)19
+b(commercial)e(systems)j(follo)n(w)440 4550 y(this)h(approach)d([Jac99)
+n(])j(as)g(does)f(the)g(well-kno)n(wn)e(open)h(source)h(softw)o(are)g
+(Snort)f([Roe99)o(].)440 4685 y(T)-7 b(aking)25 b(a)h(closer)g(look)f
+(at)i(open)e(source)g(NIDSs,)j(we)e(notice)f(that)i(Snort)e(is)i(the)f
+(only)f(one)g(widely)440 4784 y(deplo)o(yed)20 b(in)i(real)f(netw)o
+(orks.)29 b(It)22 b(appears)f(that)g(most)h(people)f(are)g(not)h(a)o(w)
+o(are)f(of)g(alternati)n(v)o(es.)29 b(This)440 4884 y(is)d(interesting)
+e(for)h(three)f(reasons.)39 b(First,)27 b(in)f(other)e(areas)h(of)g
+(security)f(there)h(usually)f(is)i(a)g(v)n(ariety)440
+4984 y(of)h(open)e(source)i(softw)o(are)f(a)n(v)n(ailable.)45
+b(Second,)27 b(Snort)f(sho)n(ws)h(some)g(technical)f(limitations)h
+(that)p eop
+%%Page: 2 2
+2 1 bop 440 531 a Fr(indicate)24 b(that)g(it)h(is)g(not)f(al)o(w)o(ays)
+h(an)f(optimal)g(solution.)36 b(Finally)-5 b(,)24 b(there)g(is)h(at)g
+(least)g(one)f(other)f(v)o(ery)440 631 y(po)n(werful)18
+b(open)i(source)f(system)h(that)h(is)g(lar)o(gely)e(unkno)n(wn:)j(Bro)f
+([P)o(ax99)n(,)f(Bro].)440 766 y(In)32 b(this)g(w)o(ork,)i(we)e
+(present)f(an)h(o)o(v)o(ervie)n(w)e(of)h(Bro.)60 b(After)32
+b(discussing)f(its)i(main)e(design)g(goals,)440 866 y(we)d(describe)f
+(Bro')-5 b(s)28 b(general)e(architecture.)46 b(W)-7 b(e)29
+b(sho)n(w)e(se)n(v)o(eral)g(e)o(xamples)f(of)i(the)f(v)n(arious)g(w)o
+(ays)440 966 y(Bro)32 b(performs)e(its)j(analysis,)h(and)d(discuss)i
+(some)e(of)h(our)f(o)n(wn)g(e)o(xperiences)f(during)g(deplo)o(ying)440
+1065 y(and)22 b(acti)n(v)o(ely)f(e)o(xtending)g(Bro,)h(including)f
+(some)h(of)g(the)h(problems)e(we)i(encountered.)28 b(Finally)-5
+b(,)23 b(we)440 1165 y(present)d(some)g(future)f(w)o(ork.)440
+1300 y(Bro)e(originated)e(as)i(a)g(research)f(system.)24
+b(It)17 b(is)g(designed)f(and)g(de)n(v)o(eloped)e(by)i(V)-9
+b(ern)16 b(P)o(axson)g(of)h Fm(ICSI')m(s)440 1400 y(Center)k(for)g
+(Internet)e(Resear)m(c)o(h)h(\(ICIR\),)f(Berk)o(ele)n(y)p
+Fr(.)25 b(He)20 b(started)g(the)h(project)e(in)h(1995)f(at)i
+Fm(Lawr)m(ence)440 1499 y(Berk)o(ele)n(y)j(National)f(Labor)o(atory)g
+(\(LBL\))p Fr(,)g(and)h(Bro)g(is)h(under)e(acti)n(v)o(e)g(de)n(v)o
+(elopment)e(since)k(then.)36 b(It)440 1599 y(w)o(as)c(\002rst)f
+(published)e(in)i(1998.)55 b(Major)31 b(e)o(xtentions)e(of)h(Bro)h(are)
+g(contrib)n(uted)e(by)h(people)g(at)h(the)440 1699 y
+Fm(Univer)o(sity)e(of)f(California,)h(Berk)o(ele)n(y)f
+Fr(and)f Fm(Princeton)h(Univer)o(sity)-5 b(,)30 b(Ne)o(w)f(J)n(er)o(se)
+n(y)p Fr(.)49 b(Among)27 b(other)440 1798 y(locations,)g(Bro)g(is)h
+(operationally)c(deplo)o(yed)h(at)i(the)f Fm(Univer)o(sity)i(of)e
+(California,)i(Berk)o(ele)n(y)e Fr(and)g(at)440 1898
+y(LBL.)20 b(Our)f(group)f(at)i(TU)g(Munich,)e(German)o(y)g(\(formerly)f
+(at)j(Saarland)f(Uni)n(v)o(ersity)-5 b(,)17 b(German)o(y\))h(has)440
+1998 y(used)23 b(and)f(e)o(xtended)f(Bro)i(since)g(2001.)32
+b(Deplo)o(ying)21 b(it)j(in)f(a)g(lar)o(ge-scale)f(research)g(en)m
+(vironment)d(at)440 2097 y(a)28 b(622)f(MBit/s)i(Internet)d(uplink)g
+(of)i(the)f Fm(Leibniz)h(Rec)o(henzentrum,)f(Munic)o(h)p
+Fr(,)h(we)g(are)g(f)o(aced)f(with)440 2197 y(problems)19
+b(which)g(are)i(often)e(underestimated)f(when)i(using)f(NIDSs)i(in)f
+(smaller)g(netw)o(orks.)440 2332 y(Bro')-5 b(s)29 b(fundamental)c
+(design)j(goal)g(is)h(to)f(separate)g(mechanism)f(and)g(polic)o(y)-5
+b(.)48 b(While)28 b(Bro)h(imple-)440 2432 y(ments)g(v)o(ery)f
+(sophisticated)g(state)h(management)e(and)h(protocol)f(analysis,)k(it)f
+(is)g(by)e(itself)i Fm(policy-)440 2531 y(neutr)o(al)p
+Fr(.)23 b(The)18 b(netw)o(ork)f(acti)n(vity)h(is)h(abstracted)e(into)h
+Fm(e)o(vents)g Fr(which)f(are)i(passed)f(from)f(Bro')-5
+b(s)18 b(core)g(to)440 2631 y(an)e(upper)e(layer)m(,)i(the)g
+Fm(policy)f(layer)p Fr(.)24 b(On)16 b(this)g(polic)o(y)f(layer)m(,)g
+(the)h(administrator)e(de\002nes)i(en)m(vironment)440
+2731 y(speci\002c)22 b(constraints)f(by)g(writing)g(custom)g(scripts)h
+(in)g(a)g(po)n(werful)e(scripting)h(language.)27 b(As)c(a)f(con-)440
+2830 y(sequence)k(of)g(this)h(design,)h(Bro)e(is)i(neither)e
+(fundamentally)e(anomaly-based)f(nor)j(misuse-based.)440
+2930 y(Instead)i(it)h(supports)e(both)g(approaches)f(and,)k(in)e(f)o
+(act,)i(the)f(def)o(ault)e(polic)o(y)g(scripts)i(shipped)e(with)440
+3030 y(Bro)19 b(implement)e(e)o(xamples)h(of)h(anomaly-)e(as)i(well)g
+(as)h(misuse-detection.)j(Its)c(inte)o(grated)e(signature)440
+3129 y(matcher)j(pro)o(vides)e(a)j(superset)f(of)h(Snort')-5
+b(s)20 b(capabilites)g(and)g(may)g(e)n(v)o(en)g(use)g(Snort')-5
+b(s)21 b(signatures)e(by)440 3229 y(means)h(of)g(a)g(con)m(v)o(erter)e
+(\(see)j(3.5\).)440 3364 y(Lik)o(e)i(most)g(NIDS,)g(Bro)g(is)h(based)f
+(on)f(a)i(pack)o(et)e(monitor)g(that)h(listens)h(to)f(netw)o(ork)f
+(traf)n(\002c)h(at)g(some)440 3464 y(central)d(point)h(of)f(the)h(netw)
+o(ork.)26 b(By)c(closely)f(follo)n(wing)e(the)i(communication)d
+(between)i(e)n(v)o(ery)g(tw)o(o)440 3563 y(connection)i(endpoints,)h
+(Bro)h(can)g(reconstruct)e(the)i(semantics)g(of)g(the)g(connections.)34
+b(F)o(or)24 b(each)f(of)440 3663 y(them,)29 b(Bro)f(k)o(eeps)f
+(comprehensi)n(v)o(e)e(state)j(information.)45 b(F)o(or)28
+b(e)o(xample,)g(on)f(the)h(transport)e(layer)m(,)440
+3763 y(Bro)19 b(reconstructs)f(TCP)i(sessions,)g(which)e(includes)h
+(reassembling)e(the)i(data)g(stream)g(and)g(handling)440
+3862 y(of)24 b(retransmissions.)37 b(On)24 b(the)g(application)f(layer)
+m(,)i(it)g(implements)e(a)i(v)n(ariety)e(of)h(protocol-speci\002c)440
+3962 y(analyzers,)c(e.g.)27 b(for)21 b(HTTP)-9 b(,)21
+b(SMTP)-9 b(,)21 b(DNS)g(and)g(man)o(y)f(others.)27 b(The)21
+b(per)n(-connection)d(state)k(is)g(fully)440 4062 y(accessible)k(by)f
+(the)g(polic)o(y)f(layer)m(,)i(so)g(polic)o(y)e(scripts)i(can)f(base)h
+(decisions)f(on)g(the)g(semantics)h(and)440 4161 y(the)20
+b(conte)o(xt)f(of)h(a)h(connection)d(rather)h(than)h(ha)n(ving)f(to)h
+(inspect)g(indi)n(vidual)f(pack)o(ets.)440 4297 y(Of)j(course,)f(while)
+g(being)g(v)o(ery)f(po)n(werful,)g(Bro)h(also)h(has)g(limitations.)29
+b(It)22 b(needs)f(more)f(time)i(to)g(un-)440 4396 y(derstand)g(and)h
+(deplo)o(y)f(than)h(a)h(system)f(lik)o(e)h(Snort.)34
+b(Currently)-5 b(,)22 b(the)h(latest)h(stable)g(v)o(ersion)e(is)i
+(quite)440 4496 y(old)g(while)h(the)f(de)n(v)o(elopment)e(v)o(ersion)h
+(is)j(cutting-edge,)d(b)n(ut)i(not)f(v)o(ery)f(well)i(tested)g(yet)g
+(in)f(opera-)440 4595 y(tional)18 b(use.)24 b(Perhaps)17
+b(most)h(importantly)-5 b(,)16 b(due)h(to)h(its)h(origins)e(as)i(a)f
+(research)f(system)h(some)g(parts)g(are)440 4695 y(quite)24
+b(unpolished.)34 b(While)24 b(there)f(is)i(a)f(mailing)g(list)h(for)e
+(coordinating)e(de)n(v)o(elopment)g(ef)n(forts,)j(Bro)440
+4795 y(needs)d(more)f(contrib)n(utors)f(to)i(mak)o(e)f(it)i(a)f
+(general)f(production-le)n(v)o(el)d(system.)27 b(Furthermore,)19
+b(more)440 4894 y(feedback)f(is)k(needed)c(about)i(the)g(problems)f
+(that)h(arise)g(in)h(netw)o(orks)e(of)h(dif)n(ferent)e(scales.)p
+eop
+%%Page: 3 3
+3 2 bop 440 531 a Fn(2)99 b(Design)25 b(and)h(implementation)f(of)g(Br)
+n(o)440 766 y Fr(Bro)32 b(consists)g(of)f(three)h(major)f(parts)g(:)49
+b(\(i\))32 b(the)f(pack)o(et)g(capture,)j(\(ii\))d(the)h(polic)o
+(y-neutral)d(e)n(v)o(ent)440 866 y(engine)20 b(which)h(contains)g(v)n
+(arious)g(lo)n(w-le)n(v)o(el)f(components)f(lik)o(e)j(protocol)e
+(analyzers,)g(and)h(\(iii\))h(the)440 966 y(polic)o(y)g(layer)h(which)f
+(de\002nes)h(the)g(en)m(vironment-speci\002c)d(constraints)i(based)h
+(on)g(scripts)g(supplied)440 1065 y(by)d(the)g(user)-5
+b(.)25 b(Starting)20 b(from)f(Bro')-5 b(s)21 b(design)e(goals,)h(we)h
+(will)g(discuss)f(each)g(part)g(in)g(turn.)440 1400 y
+Fl(2.1)82 b(Design)20 b(Goals)440 1635 y Fr(Bro')-5 b(s)21
+b(design)e(has)i(been)e(guided)g(by)h(a)g(set)h(of)f(goals)g([P)o(ax99)
+n(].)25 b(The)20 b(most)g(important)f(ones)h(are:)440
+1853 y Fl(Separation)f(of)h(mechanism)h(and)g(policy:)40
+b Fr(A)17 b(netw)o(ork)f(security)g(polic)o(y)f(depends)h(hea)n(vily)g
+(on)g(the)648 1953 y(speci\002c)22 b(en)m(vironment.)30
+b(F)o(or)22 b(e)o(xample,)g(while)g(a)h(public)f(research)g(institute)h
+(can)f(often)g(pro-)648 2052 y(vide)27 b(full)h(Internet)f(access)h(to)
+g(all)h(internal)e(systems,)j(a)e(corporate)e(netw)o(ork)h(may)g(ha)n
+(v)o(e)h(to)648 2152 y(impose)17 b(se)n(v)o(ere)g(restrictions.)24
+b(By)18 b(clearly)g(separating)f(the)h(mechanisms)f(needed)f(to)i
+(monitor)648 2252 y(\(and)23 b(potentially)g(to)h(enforce\))e(a)i
+(particular)f(polic)o(y)g(from)g(its)i(speci\002cation,)f(we)h(gain)e
+(both)648 2351 y(simplicity)c(and)h(\003e)o(xibility)-5
+b(.)440 2517 y Fl(Ef\002cient)21 b(operation)e(suitable)h(f)n(or)g
+(high-speed,)g(lar)o(ge-v)o(olume)f(monitoring:)40 b
+Fr(W)m(ith)62 b(netw)o(ork)648 2617 y(bandwidths)27 b(routinely)g
+(reaching)g(one)i(Gbit/s)g(these)g(days,)i(an)o(y)d(NIDS)h(has)g(to)g
+(be)g(highly)648 2717 y(ef)n(\002cient)18 b(to)h(cope)f(with)h(these)g
+(amounts)f(of)g(data)h(in)g(real-time.)k(Ev)o(ery)18
+b(dropped)e(pack)o(et)i(may)648 2816 y(potentially)g(lead)j(to)f(a)h
+(missed)f(attack.)440 2982 y Fl(W)o(ithstanding)g(attacks:)39
+b Fr(While)17 b(it)h(is)f(usually)f(not)g(the)h Fm(main)f
+Fr(goal)g(of)g(an)g(attack)o(er)g(to)h(compromise)648
+3082 y(the)26 b(NIDS)g(itself,)i(it)f(is)g(an)f(ob)o(vious)f(\002rst)i
+(step)f(of)g(an)g(attack)g(to)h(disable)f(the)g(NIDS)g(before)648
+3182 y(tar)o(geting)e(the)j(real)f(victim.)44 b(Hence,)27
+b(a)g(NIDS)g(which)f(can)g(be)h(easily)g(turned)e(of)n(f)h(is)h(not)f
+(of)648 3281 y(much)19 b(use)h(at)h(all.)440 3616 y Fl(2.2)82
+b(Ar)o(chitectur)o(e)440 3851 y Fr(The)20 b(design)f(goals)h(presented)
+f(abo)o(v)o(e)f(ha)n(v)o(e)i(lead)g(to)g(the)g(layered)f(architecture)f
+(sho)n(wn)i(in)g(Figure)f(1.)440 3950 y(The)31 b(task)g(of)g(the)g(lo)n
+(west)h(layer)m(,)h(the)e Fm(pac)n(k)o(et)g(captur)m(e)p
+Fr(,)h(is)h(to)e(get)g(the)g(pack)o(ets)g(of)n(f)g(the)g(wire.)58
+b(It)440 4050 y(feeds)27 b(them)g(into)g(the)g(core)f(of)h(Bro,)i(the)e
+Fm(e)o(vent)g(engine)p Fr(,)g(which)g(performs)e(lo)n(w-le)n(v)o(el)h
+(processing)440 4150 y(lik)o(e)k(state)h(management)d(and)i(protocol)e
+(analysis.)55 b(The)30 b(engine)f(generates)h(a)g(stream)g(of)g
+Fm(e)o(vents)440 4249 y Fr(which)18 b(are)h(passed)g(on)g(to)g(the)g
+Fm(policy)f(layer)p Fr(.)25 b(The)19 b(polic)o(y)f(layer)g(e)n(v)n
+(aluates)h(the)g(e)n(v)o(ents)f(according)f(to)440 4349
+y(user)n(-supplied)h(scripts.)440 4484 y(Ev)o(ents)26
+b(are)h(central)f(to)i(Bro')-5 b(s)27 b(approach)e(to)i(netw)o(ork)e
+(intrusion)h(detection.)44 b(An)27 b(e)n(v)o(ent)f(is)i(gener)n(-)440
+4584 y(ated)f(for)f(rele)n(v)n(ant)g(netw)o(ork)g(acti)n(vitiy)-5
+b(,)27 b(and)g(represents)f(an)h(abstraction)f(of)g(the)h(netw)o(ork)f
+(pack)o(ets)440 4684 y(into)i(higher)n(-le)n(v)o(el)d(conte)o(xt)i
+(information.)46 b(F)o(or)28 b(e)o(xample,)g(a)g(typical)g(e)n(v)o(ent)
+f(is)i Fq(connection)p 3344 4684 25 4 v 28 w(-)440 4783
+y(established)p Fr(.)22 b(Each)15 b(time)g(Bro')-5 b(s)16
+b(core)e(encounters)g(a)h(successful)g(three-w)o(ay-)r(T)t(C)t(P)r
+(-handshak)o(e)440 4883 y(between)g(tw)o(o)i(hosts,)g(it)f(sends)h(a)f
+Fq(connection)p 1905 4883 V 28 w(established)f Fr(e)n(v)o(ent)g(to)h
+(the)g(polic)o(y)f(layer)-5 b(.)24 b(An)440 4982 y(e)n(v)o(ent)17
+b(is)h(augmented)d(by)i(additional)f(conte)o(xt,)h(in)g(this)h(case)g
+(by)f(the)h(in)m(v)n(olv)o(ed)d(IP)j(addresses)f(and)g(ser)n(-)p
+eop
+%%Page: 4 4
+4 3 bop 1184 449 1489 2 v 1184 2156 a
+ currentpoint currentpoint translate 0.48795 0.48795 scale neg exch
+neg exch translate
+ 1184 2156 a 1184
+2156 a
+ gsave currentpoint currentpoint translate 0 neg rotate neg exch neg
+exch translate
+ 1184 2156 a @beginspecial 144 @llx 299 @lly 510
+@urx 702 @ury 3660 @rwi @clip @setspecial
+%%BeginDocument: arch.ps
+%!PS-Adobe-3.0 EPSF-3.0
+%%For: Robin Sommer,,,
+%%CreationDate: Sun Jun  1 11:55:13 2003
+%%Title: arch.sk
+%%Creator: Sketch 0.6.14
+%%Pages: 1
+%%BoundingBox: 144 299 510 702
+%%Extensions: CMYK
+%%DocumentSuppliedResources: (atend)
+%%DocumentNeededResources: font Helvetica
+%%EndComments
+
+%%BeginProlog
+%%BeginResource: procset Linux-Sketch-Procset 1.0 2
+/SketchDict 100 dict def
+SketchDict begin
+/bd { bind def } bind def
+/x { exch } bd
+/xd { exch def } bd
+/PI 3.14159265358979323846264338327 def
+/radgrad { 180 mul PI div } bd
+/skstartmatrix matrix currentmatrix def
+/tmpmat matrix def
+/ISOLatin1Encoding dup where
+{ pop pop }
+{  [/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /space /exclam /quotedbl /numbersign /dollar /percent /ampersand
+/quoteright /parenleft /parenright /asterisk /plus /comma /minus /period
+/slash /zero /one /two /three /four /five /six /seven /eight /nine /colon
+/semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J
+/K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash
+/bracketright /asciicircum /underscore /quoteleft /a /b /c /d /e /f /g /h /i
+/j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright
+/asciitilde /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /dotlessi /grave /acute /circumflex /tilde /macron /breve
+/dotaccent /dieresis /.notdef /ring /cedilla /.notdef /hungarumlaut /ogonek
+/caron /space /exclamdown /cent /sterling /currency /yen /brokenbar /section
+/dieresis /copyright /ordfeminine /guillemotleft /logicalnot /hyphen
+/registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu
+/paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright
+/onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex
+/Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex
+/Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve
+/Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute
+/Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute
+/acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute
+/ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde
+/ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave
+/uacute /ucircumflex /udieresis /yacute /thorn /ydieresis] def
+}
+ifelse
+/arct dup where
+{pop pop}
+{
+/arct {arcto pop pop pop pop} bd
+}
+ifelse
+/size 0 def
+/fontname 0 def
+/newfont 0 def
+/sf {
+/size xd
+/fontname xd
+fontname findfont
+dup /Encoding get StandardEncoding eq
+{
+dup
+length dict /newfont xd
+{
+1 index
+/FID ne
+{ newfont 3 1 roll put }
+{ pop pop }
+ifelse
+} forall
+newfont /Encoding ISOLatin1Encoding put
+fontname newfont definefont
+}
+if
+size scalefont setfont
+} bd
+/pusht {matrix currentmatrix} bd
+/popt {setmatrix} bd
+/pushc {gsave} bd
+/popc {grestore} bd
+/rgb {setrgbcolor} bd
+/w { setlinewidth } bd
+/j { setlinejoin } bd
+/J { setlinecap } bd
+/d { setdash } bd
+/F { eofill } bd
+/f { closepath F } bd
+/S {
+pusht
+skstartmatrix setmatrix stroke 
+popt
+} bd
+/s { closepath S } bd
+/m { moveto } bd
+/l { lineto } bd
+/c { curveto } bd
+/txt {
+/tmpmat tmpmat currentmatrix def
+dup type /arraytype eq {concat} {translate} ifelse
+0 0 m
+tmpmat
+} bd
+/T {txt x show popt} bd
+/P {txt x true charpath popt} bd
+/TP {txt x dup show 0 0 m true charpath popt} bd
+/C {newpath 0 360 arc} bd
+/R {
+2 copy m
+x 2 index l
+x 2 index x l
+l
+closepath
+} bd
+/ellipse { 
+dup type /arraytype eq
+{
+pusht x concat
+0 0 1.0 C 
+popt
+}	
+{
+pusht 5 1 roll
+4 -1 roll concat
+newpath
+dup 2 eq {
+0 0 m 
+} if 
+3 1 roll
+radgrad x
+radgrad x
+0 0 1   5 -2 roll
+arc
+0 ne { closepath } if
+popt
+}
+ifelse
+} bd
+/radius1 0 def
+/radius2 0 def
+/factor 0 def
+/rect {
+dup type /arraytype eq
+{
+pusht x concat
+0 0 m  1 0 l  1 1 l  0 1 l  closepath
+popt
+}
+{
+/radius2 xd
+/radius1 xd
+pusht x concat
+radius1 radius2 div  1  scale
+0 radius2 m
+0 1  radius2 1  radius2  arct
+radius2 radius1 div
+dup 1  1 index 0  radius2  arct
+0  0 0  radius2  arct
+0 0  0 1  radius2 arct
+closepath
+popt
+}
+ifelse
+} bd
+/buf 0 def
+/width 0 def
+/height 0 def
+/skcimg {
+/tmpmat tmpmat currentmatrix def
+{ concat } if
+/height xd
+/width xd
+/buf width 3 mul string def
+width height scale
+width height 8
+[width	 0   0	 height neg	  0  height]
+{ currentfile buf readhexstring pop } bind
+false 3 colorimage
+tmpmat setmatrix
+} bd
+/skgimg {
+/tmpmat tmpmat currentmatrix def
+{ concat } if
+/height xd
+/width xd
+/buf width string def
+width height scale
+width height 8
+[width	 0   0	 height neg	  0  height]
+{ currentfile buf readhexstring pop } bind
+image
+tmpmat setmatrix
+} bd
+/rclip {
+4 2 roll m
+dup 0 x rlineto
+x 0 rlineto
+neg 0 x rlineto
+closepath
+clip
+} bd
+/skeps {
+10 dict begin
+/sk_state save def
+concat
+3 index neg 3 index neg translate
+rclip
+0 setgray 0 setlinecap 1 setlinewidth 0 setlinejoin
+10 setmiterlimit [ ] 0 setdash
+newpath
+/sk_dict_count countdictstack def
+/sk_count count 1 sub def
+userdict begin
+/showpage { } def
+/languagelevel where
+{
+pop
+languagelevel 1 ne
+{
+false setstrokeadjust
+false setoverprint
+} if
+} if
+} bd 
+/skepsend {
+count sk_count sub { pop } repeat
+countdictstack sk_dict_count sub { end } repeat
+sk_state restore
+end
+} bd
+/gradidx 0 def
+/gradient { 
+3 mul array
+/gradidx 0 def
+} bd
+/$ {
+3 index gradidx       5 -1 roll put 
+2 index gradidx 1 add 4 -1 roll put 
+1 index gradidx 2 add 3 -1 roll put 
+/gradidx gradidx 3 add def
+} bd
+/! { 
+3 
+{
+dup dup gradidx dup 3 1 roll 3 sub get put
+/gradidx gradidx 1 add def
+}
+repeat
+} bd
+/gradcolor {
+3 mul dup 2 add 1 exch	% idx  1  idx+2
+{
+1 index exch	% array array i
+get		% array component
+exch		% component array
+}
+for
+4 1 roll
+} bd
+/x0 0 def /y0 0 def /x1 0 def /y1 0 def
+/left 0 def /right 0 def /top 0 def /bottom 0 def
+/numcolors 0 def
+/axial	{
+/y1 xd /x1 xd /y0 xd /x0 xd
+dup length 3 idiv /numcolors xd
+pusht exch  % ctm array
+x0 x1 ne y0 y1 ne or
+{
+x0 y0 translate
+[x1 x0 sub  y1 y0 sub	dup neg    2 index    0	    0] concat
+clippath flattenpath pathbbox
+/top xd /right xd /bottom xd /left xd
+newpath
+0 gradcolor rgb clippath f
+0 1 numcolors 1 sub
+{
+dup numcolors div
+3 1 roll
+gradcolor rgb
+exch
+bottom right top R f
+}
+for
+}
+if 
+pop
+popt
+} bd
+/r0 0 def /r1 0 def /dr 0 def
+/radial	{
+/r1 xd /r0 xd /y0 xd /x0 xd
+/dr r1 r0 sub def
+dup length 3 idiv /numcolors xd
+pusht exch  % ctm array
+r0 r1 ne
+{
+x0 y0 translate
+clippath flattenpath pathbbox
+/top xd /right xd /bottom xd /left xd
+newpath
+dr 0 gt {numcolors 1 sub}{0} ifelse gradcolor rgb
+clippath f
+dr 0 gt {numcolors 1 sub -1 0} { 0 1 numcolors 1 sub} ifelse
+{
+dup numcolors div dr mul r0 add
+3 1 roll
+gradcolor rgb
+exch
+0 0 3 -1 roll C f
+}
+for
+}
+if 
+pop
+popt
+} bd
+/max {
+2 copy lt {exch} if pop
+} bd
+/conical {
+pusht 5 1 roll
+3 1 roll /y0 xd /x0 xd
+x0 y0 translate
+radgrad rotate
+dup length 3 idiv /numcolors xd
+clippath flattenpath pathbbox newpath
+4 { abs 4 1 roll} repeat
+3 { max } repeat
+2 mul
+dup scale
+0 gradcolor rgb
+0 0 1 0 360 arc f
+1 1 numcolors 1 sub
+{
+dup numcolors div 180 mul
+3 1 roll
+gradcolor rgb
+exch
+0 0 moveto
+0 0 1  4 -1 roll  dup neg  arc
+closepath f
+}
+for
+pop
+popt
+} bd
+/XStep 0 def /YStep 0 def /imagedata 0 def /components 0 def
+/tileimage2 {
+exch 4 2 roll
+/height xd
+/width xd
+mark
+/components 2 index
+/PatternType 1
+/PaintType 1
+/TilingType 1
+/BBox [0 0 width height]
+/XStep width
+/YStep height
+/PaintProc {
+begin
+XStep YStep 8
+matrix
+imagedata
+false
+components
+colorimage
+end
+}
+counttomark 2 div cvi dup dict begin
+{ def } repeat
+pop currentdict end
+dup
+/imagedata
+4 -1 roll
+width height mul mul string
+currentfile exch readhexstring pop
+put
+exch
+makepattern
+setpattern
+clippath
+eofill
+} bd
+/tileimage1 {
+concat
+/components xd
+/height xd
+/width xd
+/imagedata
+currentfile
+width height mul components mul string
+readhexstring pop
+def
+clippath flattenpath pathbbox
+/top xd /right xd /bottom xd /left xd
+left width div floor width mul
+bottom height div floor height mul
+translate
+top bottom sub height div ceiling cvi
+{
+gsave
+right left sub width div ceiling cvi
+{
+width height 8 matrix
+components 1 eq
+{
+{ imagedata }
+image
+}
+{
+imagedata
+false components
+colorimage
+}
+ifelse
+width 0 translate
+}
+repeat
+grestore
+0 height translate
+}
+repeat
+} bd
+/makepattern where
+{
+pop
+/tileimage /tileimage2 load def
+}
+{
+/tileimage /tileimage1 load def
+}
+ifelse
+end
+%%EndResource
+%%EndProlog
+
+%%BeginSetup
+%%IncludeResource: font Helvetica
+
+10.433 setmiterlimit
+%%EndSetup
+
+%%Page: 1 1
+SketchDict begin
+/Helvetica 12 sf
+(Event control)
+147.443 557.299 0 0 0 rgb
+T
+/Helvetica 27 sf
+(Event Engine)
+234.9 493.366 T
+newpath
+381.317 540.34 m
+381.317 580.34 l
+0.283465 w
+0 j
+0 J
+[] 0 d
+S
+pusht
+381.317 580.34 translate
+90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+newpath
+380.239 660.441 m
+380.239 700.441 l
+S
+pusht
+380.239 700.441 translate
+90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+newpath
+230.145 580.365 m
+230.145 540.365 l
+[3 3 ] 0 d
+S
+pusht
+230.145 540.365 translate
+-90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+newpath
+230.145 700.416 m
+230.145 660.416 l
+[3 3 ] 0 d
+S
+pusht
+230.145 660.416 translate
+-90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+newpath
+230.145 460.29 m
+230.145 420.29 l
+[3 3 ] 0 d
+S
+pusht
+230.145 420.29 translate
+-90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+newpath
+230.145 380.239 m
+230.145 340.239 l
+[3 3 ] 0 d
+S
+pusht
+230.145 340.239 translate
+-90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+/Helvetica 12 sf
+( )
+484.082 560.542 T
+(Event stream)
+389.598 557.274 T
+(Real-time notification)
+389.598 677.375 T
+(Packet filter)
+157.451 437.224 T
+(Policy script)
+156.131 677.35 T
+(Filtered packet stream)
+389.598 437.224 T
+(Packet stream)
+389.598 357.173 T
+[270.17 0 0 -80.1512 180.113 540.34] rect
+S
+[270.17 0 0 -40.0252 180.113 340.214] 0.0740741 0.5 rect
+1 j
+1 J
+S
+/Helvetica 27 sf
+(Network)
+265.694 313.303 T
+[270.17 0 0 -79.8236 180.113 660.189] rect
+0 j
+0 J
+S
+(Policy Layer)
+241.677 613.379 T
+/Helvetica 18 sf
+( )
+312.696 615.678 T
+newpath
+381.317 420.29 m
+381.317 460.29 l
+S
+pusht
+381.317 460.29 translate
+90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+newpath
+381.317 340.239 m
+381.317 380.239 l
+S
+pusht
+381.317 380.239 translate
+90 rotate
+[ ] 0 d
+-6 3 m
+0 0 l
+-6 -3 l
+-6 3 l
+F
+popt
+/Helvetica 27 sf
+(Packet Capture)
+225.153 393.329 T
+[270.17 0 0 -40.0756 180.113 420.265] rect
+S
+%%PageTrailer
+showpage
+%%Trailer
+end
+%%DocumentSuppliedResources: procset Linux-Sketch-Procset 1.0 2
+%%EOF
+
+%%EndDocument
+ @endspecial 4234 2156 a
+ currentpoint grestore moveto
+ 4234 2156 a 1184 2156 a
+ currentpoint currentpoint translate 1 0.48795 div 1 0.48795 div scale
+neg exch neg exch translate
+ 1184
+2156 a 1184 2256 1489 2 v 1207 2422 a Fo(Figure)19 b(1:)24
+b(Design)19 b(of)g(Bro)g(\(adopted)h(from)f([P)o(ax99]\))440
+2687 y Fr(vice)24 b(ports.)34 b(On)24 b(the)g(polic)o(y)e(layer)m(,)i
+(the)g(user)f(can)h(de\002ne)f(a)h(corresponding)c Fm(e)o(vent)j
+(handler)h Fr(which)440 2787 y(speci\002es)e(actions)g(to)f(be)h
+(performed)d(whene)n(v)o(er)g(a)j(connection)e(is)i(established.)29
+b(F)o(or)21 b(its)i(operation,)440 2887 y(the)17 b(handler)f(does)h
+(not)g(ha)n(v)o(e)g(to)h(inspect)f(the)g(in)m(v)n(olv)o(ed)e(pack)o
+(ets)i(itself,)i(b)n(ut)e(w)o(orks)g(on)g(the)g(high-le)n(v)o(el)440
+2986 y(conte)o(xt)i(information.)440 3122 y(Bro)29 b(de\002nes)g(e)n(v)
+o(ents)f(for)g(most)h(rele)n(v)n(ant)f(netw)o(ork)g(acti)n(vity)h(on)f
+(dif)n(ferent)f(le)n(v)o(els)i(of)g(abstraction;)440
+3221 y(each)15 b(e)n(v)o(ent)f(is)i(accompanied)d(by)i(a)h(set)g(of)e
+(conte)o(xt)g(information.)21 b(F)o(or)15 b(e)o(xample,)g(the)g
+Fq(http)p 3135 3221 25 4 v 29 w(request)440 3321 y Fr(e)n(v)o(ent)j(is)
+h(raised)g(for)f(each)i(H)t(T)t(T)t(P)i(request)c(performed)e(by)i(a)h
+(client)g(and)f(passes)h(the)g(requested)e(URI)440 3421
+y(to)22 b(the)h(e)n(v)o(ent)e(handler)-5 b(.)30 b(The)22
+b(e)n(v)o(ent)f(handler)g(may)h(then,)g(for)g(instance,)g(inspect)g
+(the)g(URI)h(for)e(unau-)440 3520 y(thorized)g(accesses.)33
+b(On)23 b(the)f(other)g(hand,)g Fq(net)p 1874 3520 V
+29 w(weird)g Fr(is)i(raised)e(for)i(I)t(P)r(-le)n(v)o(el)e(obscurities)
+g(such)440 3620 y(as)i(corrupted)e(checksums.)34 b(Its)24
+b(conte)o(xt)e(consists)i(of)f(a)h(descripti)n(v)o(e)f(string.)34
+b(There)23 b(are)h(e)n(v)o(ents)f(for)440 3719 y(both)d(normal)f(and)h
+(abnormal)f(netw)o(ork)g(acti)n(vity:)26 b Fq(login)p
+2185 3719 V 29 w(success)20 b Fr(signals)g(a)h(successful)i
+Fk(T)t(E)t(L)t Fr(-)442 3819 y Fk(N)t(E)t(T)e Fr(login)d(while)h
+Fq(login)p 1250 3819 V 29 w(failure)f Fr(is)i(raised)f(on)f(f)o(ailed)h
+(attempts.)24 b(It)19 b(is)h(up)f(to)g(the)g(polic)o(y)e(layer)440
+3919 y(to)j(de\002ne)g(what)g(is)h(acceptable.)j(Raising)d(an)f(e)n(v)o
+(ent)f(by)h(itself)h(does)f(not)f(imply)h(an)o(y)f(judgement.)440
+4054 y(The)26 b(use)h(of)f(e)n(v)o(ents)g(is)h(Bro')-5
+b(s)27 b(main)f(method)f(of)h(coping)f(with)i(a)g(lar)o(ge)e(amount)g
+(of)h(netw)o(ork)g(traf-)440 4154 y(\002c)i(in)g(real)g(time.)48
+b(While)28 b(the)g(w)o(ork)f(within)g(the)h(e)n(v)o(ent)f(engine)g(has)
+h(to)f(be)h(performed)d(for)i(e)n(v)o(ery)440 4253 y(pack)o(et,)34
+b(actions)e(on)g(the)g(polic)o(y)g(layer)f(are)h(done)g(only)f(per)h(e)
+n(v)o(ent.)60 b(Hence,)35 b(while)d(Bro')-5 b(s)33 b(core)440
+4353 y(has)27 b(to)h(be)f(highly)f(ef)n(\002cient)g(in)i(decoding)d
+(the)i(netw)o(ork)f(pack)o(ets,)i(e)n(v)o(ent)e(handlers)g(may)h
+(perform)440 4453 y(more)g(costly)h(operations.)46 b(Additionally)-5
+b(,)28 b(the)o(y)f(can)g(sa)n(v)o(e)h(state)h(information)d(between)h
+(multiple)440 4552 y(in)m(v)n(ocations.)57 b(F)o(or)31
+b(e)o(xample,)i(a)f(port)e(scan)i(analyzer)e(may)h(count)g(for)f(each)i
+(source)e(ho)n(w)h(man)o(y)440 4652 y Fq(connection)p
+945 4652 V 28 w(attempt)25 b Fr(e)n(v)o(ents)h(ha)n(v)o(e)f(been)h
+(seen.)42 b(In)26 b(addition,)g(while)g(the)g(e)n(v)o(ent)f(engine)g
+(is)440 4751 y(coded)c(in)i Fq(C++)f Fr(for)g(ef)n(\002cienc)o(y)-5
+b(,)21 b(the)i(polic)o(y)e(layer)h(interprets)g(scripts)h(during)d
+(run-time.)31 b(Although)440 4851 y(interpreting)c(is)i(e)o(xpensi)n(v)
+o(e)e(in)i(general,)g(this)g(is)h(feasible)e(due)g(to)h(the)g(lo)n(w)f
+(v)n(olume)g(of)g(the)h(e)n(v)o(ent)440 4951 y(stream.)c(This)20
+b(pro)o(vides)f(us)h(with)h(all)f(adv)n(antages)f(of)h(a)g(\003e)o
+(xible)g(high-le)n(v)o(el)e(scripting)h(language.)p eop
+%%Page: 5 5
+5 4 bop 440 531 a Fl(2.2.1)81 b(P)o(ack)o(et)20 b(Captur)o(e)440
+723 y Fr(The)j(lo)n(west)g(layer)g(of)g(Bro)h(is)g(the)f(pack)o(et)g
+(capture)f(which)h(passes)g(the)h(actual)f(netw)o(ork)f(pack)o(ets)h
+(to)440 822 y(the)28 b(e)n(v)o(ent)g(engine.)48 b(F)o(or)28
+b(this)h(task,)i(Bro)d(uses)h(the)g(library)e Fq(libpcap)h
+Fr([Pca)o(])h(which)f(pro)o(vides)f(a)440 922 y(platform-independent)19
+b(interf)o(ace)24 b(to)g(dif)n(ferent)f(netw)o(ork)g(link)h
+(technologies.)36 b Fq(libpcap)24 b Fr(imple-)440 1022
+y(ments)k(small)g(b)n(ut)g(po)n(werful)e(\002lter)j(e)o(xpressions)d
+(which)i(can)f(be)h(used)g(to)g(reduce)f(the)h(amount)e(of)440
+1121 y(analyzed)g(pack)o(ets.)44 b(F)o(or)27 b(instance,)h(if)f(we)h
+(do)e(not)h(w)o(ant)g(to)g(analyze)f(traf)n(\002c)h(on)h(F)t(T)t(P)i
+(data)d(chan-)440 1221 y(nels,)33 b(we)d(may)g(simply)f(ignore)g(all)i
+(pack)o(ets)e(on)j(T)t(C)t(P)h(port)d(20.)54 b(Implementing)27
+b(this)k(idea,)h(Bro)440 1321 y(b)n(uilds)c(a)h(\002lter)f(e)o
+(xpression)f(dynamically)f(during)h(run-time.)47 b(The)28
+b(\002lter)h(selects)g(only)f(those)g(for)440 1420 y(further)20
+b(analysis)i(pack)o(ets)g(which)f(are)h(indeed)f(needed)f(by)i(the)f
+(current)g(polic)o(y)-5 b(.)28 b(As)23 b Fq(libpcap)e
+Fr(in-)440 1520 y(terf)o(aces)27 b(directly)f(to)g(k)o(ernel-le)n(v)o
+(el)f(pack)o(et)h(\002lters)i(on)e(man)o(y)g(operating)e(systems)k
+(\(lik)o(e)e(FreeBSD)440 1619 y(and)20 b(Linux\),)e(it)j(pro)o(vides)e
+(ef)n(\002cient)g(access)i(to)f(the)h(needed)d(subset)j(of)f(netw)o
+(ork)f(pack)o(ets.)440 1876 y Fl(2.2.2)81 b(Ev)o(ent)21
+b(Engine)440 2068 y Fr(The)j(core)g(of)h(Bro)g(is)g(its)h(e)n(v)o(ent)e
+(engine.)37 b(This)25 b(layer)f(performs)f(all)i(lo)n(w-le)n(v)o(el)e
+(w)o(ork)h(of)h(analyzing)440 2167 y(netw)o(ork)16 b(pack)o(ets.)24
+b(The)16 b(e)n(v)o(ent)h(engine)f(gets)h(ra)o(w)i(I)t(P)h(pack)o(ets)d
+(from)f(the)h(pack)o(et)f(capture,)h(sorts)g(them)440
+2267 y(by)26 b(connection,)h(reassembles)h(T)t(C)t(P)i(data)d(streams,)
+i(and)d(decodes)g(application)f(layer)i(protocols.)440
+2366 y(Whene)n(v)o(er)21 b(it)i(encounters)d(something)h(potentially)g
+(rele)n(v)n(ant)g(to)h(the)h(polic)o(y)e(layer)m(,)h(it)h(generates)e
+(an)440 2466 y(e)n(v)o(ent.)44 b(Needing)26 b(to)h(cope)f(with)h(lar)o
+(ge)f(amounts)g(of)g(traf)n(\002c,)j(the)d(e)n(v)o(ent)g(engine)g(has)h
+(to)g(be)g(highly)440 2566 y(ef)n(\002cient.)36 b(Simultaniously)-5
+b(,)23 b(to)h(withstand)g(attacks)g(against)f(Bro)h(itself,)i(it)e(has)
+h(to)f(be)g(as)h(rob)n(ust)e(as)440 2665 y(possible.)i(Hence,)19
+b(it)i(may)f(not)g(mak)o(e)f(an)o(y)h(assumptions)f(about)g(the)i(v)n
+(alidity)e(of)h(netw)o(ork)f(pack)o(ets.)440 2801 y(The)27
+b(e)n(v)o(ent)f(engine)g(consists)i(of)f(se)n(v)o(eral)g
+Fm(analyzer)o(s)p Fr(.)46 b(Each)27 b(of)f(them)h(is)i(responsible)c
+(for)i(a)h(well-)440 2900 y(de\002ned)19 b(task,)h(for)f(e)o(xample)f
+(decoding)g(a)i(speci\002c)g(protocol,)e(performing)f
+(signature-matching,)f(or)440 3000 y(identifying)21 b(backdoors.)30
+b(Each)22 b(may)h(raise)g(a)g(set)h(of)e(analyzer)n(-speci\002c)f(e)n
+(v)o(ents.)32 b(Usually)-5 b(,)23 b(an)g(ana-)440 3100
+y(lyzer)18 b(is)i(accompanied)c(by)i(a)h(def)o(ault)f(script)h(which)f
+(implements)f(some)i(general)e(polic)o(y)h(adjustable)440
+3199 y(to)i(the)h(local)f(en)m(vironment.)440 3335 y(The)g(e)n(v)o(ent)
+f(engine)g(can)h(be)g(di)n(vided)f(into)h(four)f(major)h(parts:)440
+3553 y Fl(State)g(Management:)40 b Fr(Bro')-5 b(s)27
+b(main)g(data)h(type)f(is)h(a)g Fm(connection)p Fr(.)44
+b(Each)27 b(pack)o(et)g(belongs)f(to)i(e)o(x-)648 3653
+y(actly)e(one)f(connection.)40 b(F)o(or)26 b(a)g(connection-oriented)c
+(protocol)i(lik)o(e)k(T)t(C)t(P)r(,)f(the)f(de\002nition)648
+3752 y(of)f(a)h(connection)e(is)j(ob)o(vious.)40 b(F)o(or)27
+b(U)t(D)t(P)i(and)c(ICMP,)h(Bro)g(uses)h(a)f(\003o)n(w-lik)o(e)f
+(abstraction)648 3852 y(\(see)20 b([P)o(ax02)n(])g(for)g(more)f
+(details\).)648 3985 y(The)30 b(most)g(pre)n(v)n(alent)f(problem)g(in)h
+(an)o(y)g(connection-based)d(analysis)k(is)g(the)f(dif)n(\002culty)g
+(to)648 4084 y(decide)25 b(when)g(a)i(connection)d(ends,)j(so)g(that)f
+(associated)g(state)h(can)f(be)g(released.)42 b(Protocol)648
+4184 y(analysis)22 b(is)g(useful)g(in)g(the)g(sense)g(of)g(pro)o
+(viding)d(us)j(with)g(good)f(hints:)29 b(if)22 b(both)f(endpoints)f(of)
+648 4284 y(a)28 b(T)t(C)t(P)h(connection)24 b(send)i(a)g
+Fq(FIN)g Fr(pack)o(et,)h(it)g(is)g(reasonable)d(to)i(assume)g(that)h
+(the)f(connec-)648 4383 y(tion)e(has)h(indeed)f(been)g(shut-do)n(wn.)36
+b(But)26 b(it)f(is)h(not)e(suf)n(\002cient:)34 b(e)o(xperience)23
+b(sho)n(ws)i(that)f(on)648 4483 y(lar)o(ge)d(netw)o(orks)h(there)g(are)
+g(tons)g(of)h(\223crud\224)e([P)o(ax99)n(],)i(i.e.)32
+b(netw)o(ork)21 b(pack)o(ets)h(which)g(do)g(not)648 4582
+y(conform)14 b(to)j(an)o(y)f(standard.)23 b(While)17
+b(it)g(is)h(often)e(hard)f(to)i(reason)f(where)g(it)i(originates,)e(it)
+h(is)h(im-)648 4682 y(portant)e(to)h(note)g(that)g(most)g(of)g(the)g
+(time)h(it)g(is)g(not)e(part)h(of)g(an)g(attack.)24 b(Common)16
+b(e)o(xplanations)648 4782 y(are)23 b(link-le)n(v)o(el)f(errors)h(and)g
+(b)n(uggy)e(protocol)h(implementations.)33 b(As)24 b(usual)g(in)f(netw)
+o(orking,)648 4881 y(the)f(rule)g(\223be)g(strict)h(in)g(what)f(you)g
+(send,)g(liberal)g(in)h(what)f(you)f(accept\224)h(applies.)32
+b(Thus,)22 b(Bro)p eop
+%%Page: 6 6
+6 5 bop 648 531 a Fr(implements)17 b(a)i(sophisticated)f(state)i(e)o
+(xpiration)c(mechanism)i(using)g(v)n(arious)g(user)n(-de\002nable)648
+631 y(timeouts.)440 797 y Fl(T)-6 b(ransport)20 b(Lay)o(er)g
+(Analyzers:)40 b Fr(On)16 b(the)f(transport)g(layer)m(,)g(Bro)h
+(analyzes)h(T)t(C)t(P)r(,)h(U)t(D)t(P)h(and)e(I)t(C)t(M)t(P)648
+897 y(pack)o(ets.)28 b(The)21 b(most)g(interesting)f(is)j(the)e
+(\002rst)h(one:)29 b(T)t(C)t(P)c(is)d(a)g(comple)o(x)d(protocol)h(in)m
+(v)n(olving)648 996 y(state)k(machines)f(on)g(both)g(endpoints)g(which)
+g(determine)f(the)i(current)f(state)h(of)g(the)g(connec-)648
+1096 y(tion.)37 b(Since)24 b(the)h(application)e(layer)h(analyzers)f
+(\(see)i(Section)f(3\))g(need)g(the)g(actual)h(payload)648
+1196 y(streams)f(as)h(sent)f(by)g(the)g(tw)o(o)g(endpoints,)f(Bro')-5
+b(s)27 b(T)t(C)t(P)g(analyzer)c(closely)h(follo)n(ws)f(the)h(v)n(ar)n
+(-)648 1295 y(ious)j(state)i(changes,)f(k)o(eeps)g(track)f(of)g(ackno)n
+(wledgments,)g(handles)g(retransmissions)g(and)648 1395
+y(much)g(more.)49 b(The)28 b(result)g(is)h(a)g(real)g(byte)f(stream)g
+(of)g(payload)f(data.)49 b(This)29 b(is)g(in)g(contrast)648
+1494 y(to)d(Snort')-5 b(s)26 b(analysis)g(of)i(T)t(C)t(P)r(:)f(Snort)f
+(does)g(not)g(reconstruct)e(a)j(full)f(byte)f(stream)h(b)n(ut)g(uses)
+648 1594 y(v)n(arious)d(heuristics)g(to)i(combine)d(se)n(v)o(eral)i
+(netw)o(ork)f(pack)o(ets)g(into)h(lar)o(ger)f(\223virtual\224)g(pack)o
+(ets)648 1694 y(which)e(are)i(then)f(passed)g(on)g(to)h(the)f(rest)h
+(of)f(the)h(system.)32 b(This)22 b(still)i(leads)e(to)h(discretization)
+648 1793 y(problems.)648 1926 y(W)-7 b(e)19 b(note)g(that)g(in)g
+(certain)f(situations)g(reconstructing)h(T)t(C)t(P)j(payload)17
+b(is)j(impossible)e(without)648 2026 y(using)30 b(further)g(kno)n
+(wledge)f(of)i(the)h(en)m(vironment)c([PN98)o(].)59 b(See)31
+b(Section)g([SP03a)o(])h(for)f(a)648 2125 y(discussion)19
+b(of)h(ho)n(w)g(Bro)g(may)g(tackle)g(some)g(of)g(these)g(problems.)440
+2291 y Fl(A)n(pplication)g(Lay)o(er)g(Analyzers:)40 b
+Fr(The)19 b(analysis)g(of)f(the)h(application)f(layer)g(data)h(of)g(a)g
+(connection)648 2391 y(depends)e(on)h(the)g(particular)f(service.)24
+b(There)18 b(are)g(analyzers)g(for)g(a)h(wide)f(v)n(ariety)f(of)i(dif)n
+(ferent)648 2491 y(protocols,)c(e.g.)25 b(H)t(T)t(T)t(P)r(,)19
+b(S)t(M)t(T)t(P)g(or)f(D)t(N)t(S)r(.)f(See)f(Section)g(3)g(for)g(a)h
+(more)e(detailed)g(description)648 2590 y(of)25 b(some)g(of)g(them.)41
+b(Most)25 b(of)h(these)f(analyzers)g(do)g(a)h(f)o(airly)f(detailed)g
+(analysis)g(of)h(the)f(data)648 2690 y(stream.)37 b(The)27
+b(S)t(M)t(T)t(P)g(decoder)m(,)d(for)f(e)o(xample,)h(is)i(able)e(to)h
+(decode)g(M)t(I)t(M)t(E)i(messages)e(and)648 2790 y(may)19
+b(pass)i(them)f(on)g(to)g(the)g(polic)o(y)f(layer)-5
+b(.)440 2956 y Fl(Infrastructur)o(e:)40 b Fr(The)14 b(general)g
+(infrastructure)f(includes)i(components)e(lik)o(e)i(e)n(v)o(ent)g(and)f
+(timer)h(man-)648 3055 y(agement,)j(the)j(script)f(interpreter)m(,)e
+(and)h(data)h(structures.)440 3312 y Fl(2.2.3)81 b(P)n(olicy)20
+b(Lay)o(er)440 3503 y Fr(While)c(the)f(e)n(v)o(ent)f(engine)g(itself)i
+(is)g(polic)o(y-neutral,)d(the)j(top)e(layer)h(of)g(Bro)g(de\002nes)g
+(the)h(en)m(vironment-)440 3603 y(speci\002c)22 b(netw)o(ork)e
+(security)h(polic)o(y)-5 b(.)27 b(By)21 b(writing)g(handlers)f(for)h(e)
+n(v)o(ents)g(that)g(may)g(be)h(raised)f(by)g(the)440
+3703 y(e)n(v)o(ent)j(engine,)h(the)g(user)g(can)g(precisely)f(de\002ne)
+h(the)g(particular)f(constraints)g(in)i(his)f(netw)o(ork.)39
+b(If)25 b(a)440 3802 y(security)20 b(breach)f(is)i(detected,)e(the)h
+(polic)o(y)f(layer)h(generates)f(an)h(alert.)440 3938
+y(The)h(e)n(v)o(ent)f(handlers)g(are)h(written)g(in)g(Bro')-5
+b(s)22 b(o)n(wn)f(scripting)f(language)f(\(see)j(Figure)e(2)h(for)g(a)g
+(typical)440 4037 y(implementation)26 b(of)i(a)g(handler\).)47
+b(While)29 b(pro)o(viding)c(all)k(e)o(xpected)d(con)m(v)o(enience)f(of)
+j(a)h(po)n(werful)440 4137 y(scripting)23 b(language)e(\(lik)o(e)j
+(hash)f(tables,)i(dynamic)d(memory)f(management,)h(dynamic)g(typing)h
+(and)440 4237 y(re)o(gular)17 b(e)o(xpressions\),)f(it)j(has)f(been)g
+(designed)f(with)h(netw)o(ork)f(intrusion)g(detection)g(in)h(mind.)24
+b(There)440 4336 y(are)k(speci\002c)h(data)f(types)g(for)h(I)t(P)i
+(addresses,)f(port)d(numbers)g(and)h(time)g(interv)n(als.)48
+b(Bro')-5 b(s)29 b(strings)440 4436 y(may)c(contain)g(null)h(bytes)f
+(\(in)h(contrast)f(to)h Fq(C)g Fr(strings\),)h(and)e(host)h(names)f
+(are)h(implicitly)f(resolv)o(ed)440 4535 y(by)j Fq(DNS)p
+Fr(.)g(One)g(important)e(goal)i(of)f(the)i(language)d(is)j(to)f
+(support)f(the)h(user)g(in)g(a)n(v)n(oiding)f(\223simple)440
+4635 y(errors\224)21 b([P)o(ax99)n(].)29 b(Consequently)-5
+b(,)19 b(the)i(language)f(uses)i(strong)f(typing)f(and)h(lacks)h(an)o
+(y)e(support)h(for)440 4735 y(unbounded)c(loops)1011
+4705 y Fj(1)1043 4735 y Fr(.)p 440 4806 1182 4 v 531
+4861 a Fi(1)560 4885 y Fk(Ev)o(ent)k(handlers)i(ha)o(v)o(e)f(to)g
+(\002nish)f(as)g(quickly)i(as)f(possible,)h(so)e(it)g(is)h(not)f
+(feasible)j(to)d(use)h(loops)f(that)i(may)e(e)o(x)o(ecute)j(an)440
+4964 y(arbitrary)19 b(number)f(of)f(times.)p eop
+%%Page: 7 7
+7 6 bop 440 449 2977 2 v 539 599 a Fh(const)34 b(sensitive_URIs)f(=)70
+b(/etc.*\\/.*\(passwd|shadow|netconfig\)/)1306 665 y(|)35
+b(/\\/cgi-bin\\/\(phf|php\\.cgi|test-cgi\)/;)539 798
+y(const)f(sensitive_post_URIs)f(=)h(/wwwroot/)g(&redef;)539
+931 y(event)g(http_request\(c:)f(connection,)h(method:)g(string,)g
+(URI:)g(string,)g(version:)g(string\))609 997 y({)609
+1064 y(if)g(\(\(sensitive_URIs)f(in)i(URI)f(||)h(\(method)f(==)g
+("POST")h(&&)f(sensitive_post_URIs)e(in)j(URI\)\))679
+1130 y({)679 1197 y(ALERT\([$alert=HTTP_SensitiveURI,)30
+b($conn=c,)923 1263 y($msg=fmt\("\045s)j(\045s:)h(\045s)h(\045s",)f
+(id_string\(c$id\),)f(c$addl,)h(method,)g(URI\)]\);)679
+1330 y(})609 1396 y(})539 1529 y(#)h(Sample)f(output)539
+1595 y(#)539 1662 y(#)70 b(HTTP_SensitiveURI)32 b(10.0.0.1/1078)h(>)i
+(10.0.0.2/http)e(\0451:)i(GET)f(/etc/passwd)p 440 1811
+V 440 1977 a Fo(Figure)17 b(2:)22 b(Sample)17 b(e)n(v)o(ent)h(handler)g
+(in)f(Bro')l(s)g(scripting)g(language)i(\(adapted)f(from)f(Bro')l(s)g
+(def)o(ault)h(polic)o(y)f(script)440 2060 y Fg(http-request)p
+Fo(\))440 2303 y Fr(One)29 b(or)g(more)g(handlers)f(can)h(be)g
+(associated)g(with)h(an)f(e)n(v)o(ent.)51 b(These)30
+b(handlers)e(are)h(called)g(suc-)440 2403 y(cessi)n(vly)c(if)g(the)g(e)
+n(v)o(ent)f(is)i(raised.)39 b(This)25 b(allo)n(ws)h(modularizing)c
+(polic)o(y)i(scripts.)39 b(Each)25 b(script)g(only)440
+2502 y(de\002nes)d(the)h(handlers)f(it)h(needs.)32 b(During)21
+b(startup,)i(Bro)g(loads)f(all)h(scripts)g(enabled)f(by)g(the)h(user)-5
+b(.)32 b(If)440 2602 y(a)26 b(script)g(needs)f(a)h(particular)f
+(analyzer)m(,)g(the)h(analyzer)e(is)j(automatically)d(enabled)h(in)h
+(Bro')-5 b(s)26 b(e)n(v)o(ent)440 2702 y(engine.)h(This)21
+b(ensures)g(that)g(only)g(those)g(components)e(of)i(Bro)g(are)g(acti)n
+(v)n(ated)f(and)h(hence)f(consume)440 2801 y(resources)f(that)i(are)f
+(indeed)f(used.)440 2937 y(While)i(it)g(is)g(e)o(xpected)e(that)h
+(polic)o(y)f(scripts)i(are)f(written)g(by)g(the)h(user)m(,)e(there)h
+(are)g(ne)n(v)o(ertheless)f(quite)440 3036 y(a)27 b(fe)n(w)f(of)g(them)
+g(shipped)g(with)g(Bro.)44 b(These)26 b(def)o(ault)g(scripts)h(already)
+e(perform)g(a)h(wide)h(range)e(of)440 3136 y(analyses)20
+b(and)g(are)g(easily)g(customizable.)440 3471 y Fl(2.3)82
+b(Rob)n(ustness)440 3706 y Fr(One)27 b(of)f(Bro')-5 b(s)27
+b(design)f(goals)g(is)i(to)f(withstand)f(attacks)h(against)f(the)g
+(NIDS)h(itself.)45 b(F)o(or)26 b(this,)j(Bro)440 3805
+y(mak)o(es)20 b(tw)o(o)h(basic)f(assumptions:)565 4000
+y Ff(\017)41 b Fr(Bro')-5 b(s)20 b(source)g(code)f(is)i(kno)n(wn)e(to)h
+(the)h(attack)o(er)e(b)n(ut)h(the)h(polic)o(y)e(scripts)h(are)g(not.)
+565 4156 y Ff(\017)41 b Fr(F)o(or)19 b(each)h(connection)e(at)j(most)f
+(one)g(of)g(its)h(endpoints)e(is)i(compromised.)440 4350
+y(The)f(\002rst)i(assumption)e(is)h(similiar)g(in)g(spirit)g(to)g
+Fm(K)m(er)m(c)n(khof)o(f)8 b(')m(s)20 b(principle)p Fr(:)26
+b(the)21 b(mechanism)e(is)j(public)440 4450 y(b)n(ut)28
+b(its)h(parametrization)d(is)j(secret.)49 b(Hence,)29
+b(the)f(attack)o(er)g(may)f(kno)n(w)g(what)h(kind)f(of)h(lo)n(w-le)n(v)
+o(el)440 4550 y(processing)f(the)h(NIDS)h(is)g(performing,)e(b)n(ut)h
+(he)h(cannot)e(predict)g(ho)n(w)h(the)g(system)h(will)g(actually)440
+4649 y(react)23 b(to)g(a)g(particular)e(input.)32 b(This)23
+b(considerably)e(complicates)h(attacks)h(which,)f(for)g(e)o(xample,)g
+(try)440 4749 y(to)e(o)o(v)o(erload)e(the)i(system)h(by)e(e)o
+(xhausting)g(its)i(resources.)440 4884 y(The)h(second)f(assumption)g
+(implies)h(that)g(the)g(attack)o(er)g(can)g(only)f(modify)g(the)h(pack)
+o(ets)f(on)h(one)g(side)440 4984 y(of)d(a)g(bi-directional)e
+(connection.)22 b(In)d(particular)m(,)e(this)i(allo)n(ws)g(the)g
+(reliable)g(reconstruction)d(of)21 b(T)t(C)t(P)p eop
+%%Page: 8 8
+8 7 bop 440 531 a Fr(streams)20 b(as)h(it)f(helps)g(to)g(limit)h(the)f
+(amount)e(of)i(b)n(uf)n(fered)e(data)h(without)h(risking)f(a)h
+(misinterpretation)440 631 y(of)27 b(the)g(stream.)46
+b(This)27 b(assumption)f(is)i(reasonable)e(since)h(as)h(soon)e(as)i(an)
+f(attack)o(er)g(controls)f(both)440 731 y(endpoints)17
+b(we)h(are)g(lost)h(an)o(yw)o(ay:)k(By)18 b(using)g(an)o(y)g(v)n(alid)f
+(connection)f(between)i(the)g(tw)o(o)g(systems,)h(he)440
+830 y(can)h(set)h(up)f(a)g(co)o(v)o(ert)f(channel,)g(without)g
+(virtually)g(an)o(y)h(chance)f(of)h(being)f(detected.)440
+966 y(Ev)o(en)27 b(if)i(these)f(tw)o(o)h(assumptions)e(hold,)j(attacks)
+e(against)g(the)g(system)h(may)f(still)h(be)f(successful.)440
+1065 y(Ho)n(we)n(v)o(er)m(,)d(this)h(is)h(not)e(a)i(problem)d(that)h
+(is)i(speci\002c)f(to)g(Bro)g(b)n(ut)g(applies)f(to)h(all)g(NIDSs.)43
+b(First,)27 b(as)440 1165 y(long)i(as)i(a)f(NIDS)g(stores)g(state)h
+(about)e(netw)o(ork)f(traf)n(\002c,)k(it)f(may)e(be)h(possible)f(to)h
+(o)o(v)o(erload)e(it)i(by)440 1264 y(carefully)c(crafting)h(traf)n
+(\002c.)47 b(Second,)28 b(there)f(are)h(e)n(v)n(asion)e(methods)h
+(which)g(cannot)g(be)g(solv)o(ed)g(in)440 1364 y(general)20
+b(\(see)h([PN98)o(]\).)27 b(Consequently)-5 b(,)18 b(although)i(Bro)h
+(cannot)e(resist)j(all)g(attacks,)f(it)g(tries)h(hard)e(to)440
+1464 y(at)k(least)g(notice)e(them.)34 b(Netw)o(ork)23
+b(pack)o(ets)g(are)g(untrusted,)f(the)o(y)h(are)g(carefully)f(e)o
+(xamined,)g(and)g(all)440 1563 y(pecularities)h(are)h(reported.)33
+b(Similarly)-5 b(,)24 b(no)f(assumption)f(about)h(the)h(v)n(alidity)e
+(of)i(the)f(data)h(is)h(made)440 1663 y(during)d(the)h
+(application-layer)d(protocol)i(analysis.)34 b(If)23
+b(processing)f(of)h(a)g(single)g(pack)o(et)g(consumes)440
+1763 y(too)h(much)g(cpu)g(time,)h(Bro')-5 b(s)25 b Fm(watc)o(hdo)o(g)e
+Fr(raises)i(an)f(alert,)i(assuming)d(that)i(the)f(delay)g(is)h(caused)f
+(by)440 1862 y(e)o(xhausted)19 b(resources)g(or)h(a)g(coding)f(error)-5
+b(.)440 2213 y Fn(3)99 b(Analyzers)440 2448 y Fr(Bro')-5
+b(s)18 b(most)f(important)e(components)g(are)i(the)g
+Fm(analyzer)o(s)p Fr(.)24 b(Among)16 b(others,)h(there)f(are)h
+(analyzers)g(for)440 2548 y(application-layer)g(decoding,)h
+(anomaly-detection,)f(signature)i(matching)f(and)i(connection)e(analy-)
+440 2648 y(sis.)46 b(W)-7 b(e)28 b(will)g(brie\003y)e(describe)g(se)n
+(v)o(eral)g(of)h(them)f(in)h(this)g(section.)45 b(Ne)n(w)27
+b(analyzers)f(are)h(easy)g(to)440 2747 y(add.)440 2883
+y(The)c(term)g(\223analyzer\224)f(is)i(only)e(loosely)h(de\002ned)f
+(and)h(refers)g(to)g(part)g(of)g(Bro)g(that)h(performs)d(some)440
+2982 y(speci\002c)j(task.)37 b(Most)24 b(ananalyzers)e(consist)i(of)g
+(a)g(lo)n(w-le)n(v)o(el)f(part)h(located)f(inside)h(Bro')-5
+b(s)24 b(e)n(v)o(ent)f(en-)440 3082 y(gine,)c(and)f(an)h(accompan)o
+(ying)c(def)o(ault)k(polic)o(y)f(script.)24 b(The)19
+b(latter)g(can)g(be)g(customized)e(by)i(the)g(user)-5
+b(.)440 3182 y(Sometimes,)29 b(ho)n(we)n(v)o(er)m(,)e(the)h(analyzer)e
+(is)j(just)f(a)g(polic)o(y)e(script)i(implementing)e(some)h(e)n(v)o
+(ent)g(han-)440 3281 y(dlers.)44 b(F)o(or)26 b(e)o(xample,)g(the)g
+(scan)h(detector)e(is)j(realized)d(only)h(on)g(the)g(script)h(layer)m
+(,)g(relying)e(on)h(the)440 3381 y(general)19 b(connection)f(setup)i
+(and)g(tear)n(-do)n(wn)e(e)n(v)o(ents.)440 3715 y Fl(3.1)82
+b(A)n(pplication-lay)o(er)18 b(Analyzers)440 3950 y(3.1.1)83
+b(H)t(T)t(T)t(P)440 4142 y Fr(One)31 b(of)f(the)h(most)g(po)n(werful)e
+(analyzers)h(is)i(the)g(H)t(T)t(T)t(P)i(decoder)-5 b(.)56
+b(It)31 b(decodes)f(both)g(sides)h(of)g(a)442 4242 y(H)t(T)t(T)t(P)g
+(connection:)39 b(the)29 b(client)f(side)h(as)g(well)g(as)g(the)f(serv)
+o(er)f(side.)50 b(F)o(or)28 b(the)g(former)m(,)h(the)f(e)n(v)o(ent)440
+4341 y(engine)22 b(generates)g(an)g(e)n(v)o(ent)g(for)g(e)n(v)o(ery)g
+(request,)g(supplying)f(information)g(about)h(the)g(connection,)440
+4441 y(the)j(URI,)h(the)i(H)t(T)t(T)t(P)g(method)c(and)h(the)g(v)o
+(ersion.)39 b(Additionally)-5 b(,)25 b(a)h(separate)f(e)n(v)o(ent)f(is)
+i(raised)g(for)440 4540 y(e)n(v)o(ery)h(H)t(T)t(T)t(P)h(header)d(line.)
+42 b(On)26 b(the)g(serv)o(er')-5 b(s)25 b(side,)i(the)f(reply)f(is)i
+(parsed)e(and)h(dissected)f(into)h(its)440 4640 y(parts:)45
+b(header)30 b(lines)g(and)g(MIME)g(encoded)e(components.)53
+b(The)30 b(analyzer)f(is)i(capable)f(to)g(parse)442 4740
+y(H)t(T)t(T)t(P)23 b(1.0)c(and)h(1.1)g(messages)g(with)g(persistent)g
+(connections)f(and)g(pipelining.)440 4875 y(The)25 b(def)o(ault)g
+(polic)o(y)f(scripts)i(log)f(each)g(request)g(and)g(the)g
+(corresponding)d(reply)j(\(Figure)f(3)i(sho)n(ws)440
+4975 y(a)g(sample)e(of)h(its)i(output\).)38 b(In)25 b(addition,)f(the)o
+(y)h(may)f(alert)i(on)e(accesses)i(to)g(a)f(customizable)f(list)i(of)
+440 5074 y(\223hot\224)20 b(URIs.)p eop
+%%Page: 9 9
+9 8 bop 440 449 2977 2 v 539 599 a Fh(15:18:10)34 b(\0451)g(start)h
+(10.0.0.1)f(>)g(66.35.250.150)539 665 y(15:18:10)g(\0452)g(start)h
+(10.0.0.1)f(>)g(216.239.51.101)539 732 y(15:18:10)g(\0453)g(start)h
+(10.0.0.1)f(>)g(66.35.250.123)539 798 y(15:18:10)g(\0452)g(GET)h
+(/ca/show_ads.js)e(\(200)h("OK")h([")f(2294",)g(2294]\))539
+865 y(15:18:10)g(\0451)g(GET)h(/)g(\(200)f("OK")g([")h(10401",)f
+(10401]\))539 931 y(15:18:11)g(\0453)g(GET)h
+(/Slashdot/pc.gif?index,1053349807784)30 b(\(200)k("OK")h([")f(42",)h
+(42]\))539 997 y(15:18:11)f(\0454)g(start)h(10.0.0.1)f(>)g
+(66.35.250.110)539 1064 y(15:18:11)g(\0452)g(GET)h
+(/search?[...]q=http\0453A//slashdot.org/)30 b(\(200)k("OK")h(["",)f
+(1417]\))539 1130 y(15:18:11)g(\0454)g(GET)h
+(/banner/goog5025en.gif?1053349808023)30 b(\(200)k("OK")h([")f(42",)h
+(42]\))539 1197 y(15:18:11)f(\0454)g(GET)h(/title.gif)f(\(200)g("OK")g
+([")h(3473",)f(3473]\))539 1263 y(15:18:11)g(\0454)g(GET)h
+(/topics/topicmatrix.gif)d(\(200)i("OK")h([")f(1564",)g(1564]\))539
+1330 y(15:18:11)g(\0454)g(GET)h(/topics/topicslashback.gif)c(\(200)k
+("OK")f([")h(2141",)f(2141]\))539 1396 y(15:18:11)g(\0454)g(GET)h
+(/topics/topicmovies.gif)d(\(200)i("OK")h([")f(1476",)g(1476]\))539
+1462 y(15:18:12)g(\0454)g(GET)h(/topics/topicwireless.gif)d(\(200)i
+("OK")g([")h(1045",)f(1045]\))539 1529 y(15:18:12)g(\0454)g(GET)h
+(/topics/topichardware.gif)d(\(200)i("OK")g([")h(1185",)f(1185]\))539
+1595 y(15:18:12)g(\0454)g(GET)h(/slc.gif)f(\(200)g("OK")g([")h(122",)f
+(122]\))539 1662 y([...])p 440 1811 V 712 1977 a Fo(Figure)19
+b(3:)k(Output)d(of)h(H)t(T)t(T)t(P)d(analyzer)i(when)f(accessing)h
+Fg(http://slashdot.org)440 2242 y Fl(3.1.2)83 b(F)t(T)t(P)440
+2434 y Fr(The)34 b(F)t(T)t(P)i(analyzer)31 b(parses)i(the)f(control)g
+(channel)f(of)j(F)t(T)t(P)i(sessions)d(and)f(pro)o(vides)f(access)i(to)
+440 2533 y(authorization)20 b(information,)h(commands,)g(parameters)g
+(and)h(serv)o(er)f(replies.)32 b(As)23 b(it)g(parses)g(the)f(ne-)440
+2633 y(gotiation)17 b(of)h(data)g(channels,)f(the)i(def)o(ault)e(polic)
+o(y)g(script)h(notices)g(if)h(pri)n(vile)o(ged)d(ports)i(are)g(used)g
+(or)g(if)440 2733 y(a)i(data)f(channel)f(is)i(opened)d(by)i(a)h(source)
+e(which)h(has)g(not)g(ne)o(gotiated)e(it.)26 b(File)20
+b(accesses)g(are)f(logged,)440 2832 y(and)h(accesses)h(to)f(a)h(list)g
+(of)f(sensiti)n(v)o(e)g(\002les)h(are)f(reported.)440
+3089 y Fl(3.1.3)83 b(S)t(M)t(T)t(P)442 3280 y Fr(S)t(M)t(T)t(P)29
+b(sessions)d(are)g(fully)f(parsed,)h(too.)41 b(The)26
+b(analyzer)e(follo)n(ws)i(the)f(protocol)f(commands)h(and)440
+3380 y(checks)18 b(for)h(v)n(arious)f(inconsistencies.)23
+b(F)o(or)c(transfered)e(messages,)i(it)h(e)o(xtracts)e(the)h(en)m(v)o
+(elope)e(infor)n(-)440 3480 y(mation)g(as)i(well)f(as)h(the)h(R)t(F)t
+(C)t(8)t(2)t(2)h(mail)d(itself.)25 b(The)18 b(latter)g(may)g(be)f
+(decoded)g(into)g(all)i(of)f(its)j(M)t(I)t(M)t(E)440
+3579 y(parts.)k(The)20 b(analyzer)f(e)n(v)o(en)g(detects)h(relays)g(by)
+g(correlating)e(mails)j(using)f Fq(MD5)g Fr(hashes.)440
+3836 y Fl(3.1.4)83 b(D)t(N)t(S)440 4028 y Fr(The)18 b(D)t(N)t(S)h
+(analyzer)14 b(is)j(one)e(of)h(the)g(fe)n(w)g(analyzers)f(decoding)h(U)
+t(D)t(P)j(data.)k(A)18 b(D)t(N)t(S)h(lookup)c(usually)440
+4127 y(consists)27 b(of)g(a)g(at)g(least)h(one)e(reply)g(and)g(one)h
+(response.)43 b(The)27 b(analyzer)e(correlates)h(requests)h(with)440
+4227 y(replies,)18 b(pro)o(viding)c(both)j(questions)g(and)g(answers)g
+(to)h(e)n(v)o(ent)e(handlers.)23 b(The)17 b(def)o(ault)g(script)h
+(handles)440 4326 y(all)j(types)g(of)i(D)t(N)t(S)h(messages,)d(logs)g
+(v)n(arious)e(pieces)i(of)g(information)d(\(see)j(Figure)g(4\),)f(and)g
+(checks)440 4426 y(for)g(inconsistencies)f(such)h(as)j(P)t(T)t(R)g
+(scans.)p eop
+%%Page: 10 10
+10 9 bop 440 449 2977 2 v 539 599 a Fh(Mon)35 b(May)f(19)h(16:00:20)e
+(2003)i(#1)f(10.0.0.1/34252)f(>)i(131.159.14.1/dns)e(start)539
+665 y(#1)i(10.0.0.1)e(?A)i(www.net.in.tum.de)e(=)h
+(www.net.informatik.tu-muenchen.de)d(\\)1132 732 y(<TTL)j(=)h
+(68214.000000>)539 798 y(#1)g(10.0.0.1)e(=)i(131.159.15.242)e(<TTL)i(=)
+f(86400.000000>)539 865 y(#1)h(10.0.0.1)e(<auth)i(NS>)f(=)h
+(dns1.net.informatik.tu-muenchen.de)30 b(<TTL)35 b(=)f(86400.000000>)
+539 931 y(#1)h(10.0.0.1)e(<auth)i(NS>)f(=)h
+(tuminfo1.informatik.tu-muenchen.de)30 b(<TTL)35 b(=)f(86400.000000>)
+539 997 y(#1)h(10.0.0.1)e(<addl)i(A>)f(=)h(131.159.14.1)e(<TTL)i(=)f
+(86400.000000>)539 1064 y(#1)h(10.0.0.1)e(<addl)i(A>)f(=)h(131.159.0.1)
+e(<TTL)i(=)g(67342.000000>)539 1130 y(#1)g(finish)p 440
+1280 V 603 1446 a Fo(Figure)19 b(4:)k(Output)c(of)i(D)t(N)t(S)f
+(analyzer)f(when)h(looking)g(up)f Fg(http://www.net.in.tum.de)440
+1711 y Fl(3.2)82 b(Scan)20 b(Detection)440 1946 y Fr(Prior)e(to)h(an)g
+(actual)f(attack,)h(attack)o(ers)f(often)g(scan)h(potential)e(victims)i
+(to)g(identify)e(the)i(services)g(the)o(y)440 2046 y(are)26
+b(running.)39 b(Using)25 b(Bro')-5 b(s)26 b(connection-tracking,)c(it)
+27 b(is)f(tri)n(vial)g(to)g(identify)e(scans:)37 b(F)o(or)25
+b Fm(vertical)440 2145 y Fr(scans,)20 b(we)g(simply)g(count)e(the)i
+(number)e(of)i(\(successful)f(or)g(unsuccessful\))f(connection)g
+(attempts)i(to)440 2245 y(dif)n(ferent)f(ports)i(on)g(each)g(host,)g
+(and)f(for)h Fm(horizontal)f Fr(scans,)h(we)h(count)e(the)h(number)e
+(of)i(connection)440 2345 y(attempts)h(to)g(each)g(port)f(within)h(a)g
+(set)h(of)f(hosts.)31 b(One)21 b(of)h(Bro')-5 b(s)23
+b(def)o(ault)e(polic)o(y)g(script)h(implements)440 2444
+y(this)f(approach.)i(Figure)c(5)h(sho)n(ws)h(an)f(e)o(xample.)p
+440 2563 V 539 2712 a Fh(14:27:42)34 b(PortScan)g(10.0.0.1)g(has)g
+(scanned)g(1000)g(ports)h(of)f(192.168.0.1)539 2779 y(14:32:06)g
+(AddressScan)f(10.1.0.6)h(has)h(scanned)f(100)g(hosts)g(\(http\))539
+2845 y(14:33:13)g(AddressScan)f(10.0.2.7)h(has)h(scanned)f(100)g(hosts)
+g(\(http\))539 2912 y(14:34:21)g(AddressScan)f(10.3.0.4)h(has)h
+(scanned)f(100)g(hosts)g(\(http\))539 2978 y(14:37:06)g(AddressScan)f
+(10.0.4.9)h(has)h(scanned)f(100)g(hosts)g(\(http\))539
+3044 y(14:37:28)g(AddressScan)f(10.5.0.1)h(has)h(scanned)f(100)g(hosts)
+g(\(netbios-ssn\))539 3111 y(14:37:56)g(AddressScan)f(10.0.6.4)h(has)h
+(scanned)f(100)g(hosts)g(\(http\))539 3177 y(14:38:16)g(AddressScan)f
+(10.7.0.5)h(has)h(scanned)f(500)g(hosts)g(\(netbios-ssn\))539
+3244 y(14:43:37)g(AddressScan)f(10.0.8.6)h(has)h(scanned)f(100)g(hosts)
+g(\(1214/tcp\))p 440 3393 V 1425 3559 a Fo(Figure)19
+b(5:)k(Output)c(of)g(scan)h(analyzer)440 3956 y Fl(3.3)82
+b(Stepping)20 b(Stones)440 4191 y Fr(A)i Fm(stepping)d(stone)i
+Fr(is)h(an)f(intermediary)e(host)i(that)g(someone)f(uses)h(to)g(access)
+h(a)f(system:)27 b(instead)21 b(of)440 4291 y(connecting)h(from)h(host)
+h Fc(A)h Fr(to)g Fc(B)k Fr(directly)-5 b(,)24 b(he)g(may)f(connect)g
+(to)i Fc(C)31 b Fr(\002rst,)26 b(and)d(then)h(from)f
+Fc(C)31 b Fr(to)25 b Fc(B)t Fr(.)440 4390 y(In)20 b(general,)g(using)g
+(a)h(stepping)e(stone)i(is)g(not)f(ille)o(gitimate;)h(sometimes)f(it)h
+(is)h(e)n(v)o(en)e(neccessary)-5 b(.)24 b(But)440 4490
+y(often)19 b(stepping)g(stones)h(are)g(used)g(by)g(attack)o(ers)f(to)i
+(hide)e(their)h(origin.)k(Therefore,)17 b(it)k(is)g(v)n(aluable)e(to)
+440 4589 y(identify)g(them.)440 4725 y(Bro)28 b(contains)f(an)g
+(analyzer)g(that)h(correlates)f(the)h(timing)f(of)g(pack)o(ets)h(on)f
+(incoming)f(connections)440 4824 y(with)e(those)g(on)f(outgoing)f
+(connections)g(to)i(identify)f(stepping)g(stones)h(\(see)g([ZP00)o(])g
+(for)f(a)i(full)e(de-)440 4924 y(scription)c(of)h(the)g(algorithm\).)p
+eop
+%%Page: 11 11
+11 10 bop 440 531 a Fl(3.4)82 b(SYN-Floods)440 766 y
+Fr(One)26 b(of)g(the)g(most)g(common)f(denial-of-service)e(attacks)j
+(is)h(\003ooding)e(a)h(victim)g(with)h(bogus)e(con-)440
+866 y(nection)f(requests)g(by)g(sending)g(millions)g(of)h
+Fq(SYN)f Fr(pack)o(ets.)38 b(While)25 b(some)g(operating)e(systems)i
+(al-)440 966 y(ready)f(defend)f(themselv)o(es)i(against)f(resource)g(e)
+o(xhaustion)f(\(for)h(e)o(xample)f(by)i(using)f(\223)p
+Fq(SYN)h Fr(cook-)440 1065 y(ies\224)g([Ber96)o(]\),)g(such)f(an)g
+(attack)h(has)f(the)h(potential)f(to)g(e)n(v)o(entually)f(\002ll)i(up)f
+(the)h(netw)o(ork)e(link.)37 b(F)o(or)440 1165 y(a)21
+b(connection-tracking)16 b(NIDS,)21 b(another)e(problem)f(arises:)27
+b(storing)20 b(state)h(for)f(each)g(of)g(the)h(connec-)440
+1264 y(tion)i(attempts)h(w)o(ould)f(\002ll)h(up)f(the)h(system')-5
+b(s)24 b(memory)e(quite)h(quickly)-5 b(.)33 b(But,)25
+b(considering)c(a)j(single)440 1364 y Fq(SYN)c Fr(at)h(a)g(time,)f(it)h
+(is)g(hard)e(to)h(decide)g(whether)f(a)i(connection)d(request)h(is)i
+(bogus)e(or)h(not.)440 1499 y(There)c(e)o(xists)i(an)f(e)o(xperimental)
+d Fq(SYN)p Fr(-\003ood)i(analyzer)f(for)i(Bro)g(to)g(cope)f(with)i
+(this)f(situation.)23 b(While)440 1599 y(by)f(def)o(ault)g(Bro)h
+(creates)g(state)g(for)g(each)f Fq(SYN)h Fr(pack)o(et,)f(the)h
+(analyzer)f(counts)g(the)g(number)f(of)i(con-)440 1699
+y(nection)f(attempts)g(to)h(each)f(host.)32 b(If)22 b(a)h(count)f
+(reaches)g(a)h(certain)f(threshold,)f(Bro)i(starts)g(to)g(sample)440
+1798 y(the)d(pack)o(ets)f(to)h(this)h(destination)d(aggressi)n(v)o(ely)
+-5 b(,)18 b(ignoring)f(most)j(of)g(them.)k(If)c(the)g(\003ood)f(ends,)g
+(sam-)440 1898 y(pling)g(is)j(turned)c(of)n(f)i(again.)440
+2233 y Fl(3.5)82 b(Signatur)o(es)440 2468 y Fr(Most)22
+b(NIDSs)h(match)e(a)h(lar)o(ge)f(set)i(of)f Fm(signatur)m(es)f
+Fr(against)g(the)h(netw)o(ork)f(traf)n(\002c.)30 b(Here,)22
+b(a)g(signature)440 2567 y(is)33 b(basically)e(a)i(pattern)e(of)g
+(bytes)h(that)g(the)g(NIDS)g(tries)h(to)f(locate)f(in)h(the)g(payload)f
+(of)g(netw)o(ork)440 2667 y(pack)o(ets.)d(As)22 b(soon)f(as)g(a)h
+(match)f(is)h(found,)e(the)h(system)g(generates)g(an)g(alert.)28
+b(T)-7 b(o)21 b(limit)h(the)f(scope)g(of)440 2766 y(a)26
+b(signature,)g(it)h(can)e(usually)g(be)h(restricted)g(to)f(a)i(subset)f
+(of)f(pack)o(ets)h(by)f(de\002ning)g(conditions)f(the)440
+2866 y(pack)o(et)i(header)g(has)h(to)g(ful\002ll)g(\(for)f(e)o(xample)g
+(aiming)g(at)h(a)h(certain)e(port)g(or)h(a)g(destination\).)44
+b(One)440 2966 y(of)23 b(the)g(most)g(prominent)d(of)j(such)g(systems)g
+(is)h(Snort)e(which)h(ships)g(with)g(a)h(def)o(ault)e(set)h(of)g
+(roughly)440 3065 y(1300)c(signatures;)g(Figure)h(6)g(\(a\))g(sho)n(ws)
+g(one)g(of)g(them.)440 3201 y(Bro')-5 b(s)27 b(general)e(approach)g(to)
+h(intrusion)g(detection)f(has)i(a)g(much)e(broader)g(scope)h(than)g
+(traditional)440 3300 y(signature-matching.)49 b(Ne)n(v)o(ertheless,)30
+b(it)g(still)h(contains)e(a)g(signature)g(engine)f(pro)o(viding)e(a)k
+(func-)440 3400 y(tionality)h(that)g(is)i(similiar)f(to)f(that)h(kno)n
+(wn)e(from)g(other)h(systems.)59 b(While)32 b(Bro)f(implements)g(its)
+440 3500 y(o)n(wn)22 b(\003e)o(xible)g(signature)g(language,)g(there)g
+(e)o(xists)h(a)h(con)m(v)o(erter)c(which)i(directly)g(translates)h
+(Snort')-5 b(s)440 3599 y(signatures)19 b(into)h(Bro')-5
+b(s)21 b(syntax.)j(Figure)c(6)g(\(b\))g(sho)n(ws)g(the)g(translation)f
+(of)h(a)h(signature.)440 3735 y(But)i(Bro')-5 b(s)23
+b(signatures)f(go)g(well)h(be)o(yond)d(the)j(capabilities)f(of)g(other)
+g(NIDSs.)32 b(The)22 b(most)h(pre)n(v)n(alent)440 3834
+y(problem)f(in)h(signature-based)e(intrusion)h(detection)g(are)h
+Fm(false)h(positives)p Fr(.)35 b(F)o(or)23 b(some)g(attacks)g(\(lik)o
+(e)440 3934 y(b)n(uf)n(fer)j(o)o(v)o(er\003o)n(w)g(e)o(xploits)h(using)
+g(a)h(well-kno)n(wn)d(sequence)i(of)g(machine)f(code\),)j(de\002ning)d
+(byte-)440 4033 y(le)n(v)o(el)j(signatures)f(is)i(straight-forw)o(ard.)
+48 b(But)30 b(most)f(attacks)g(are)g(not)f(easily)i(identi\002able)e
+(by)g(just)440 4133 y(looking)21 b(at)i(byte)f(sequences)f(\(see)i(for)
+f(e)o(xample)f(the)h(one)g(described)f(in)i([Cv)o(e)o(]\).)31
+b(Often,)23 b(this)g(leads)440 4233 y(to)d(v)o(ery)f(broad)g
+(signatures,)g(raising)h(a)h(high)e(number)f(of)i(f)o(alse)h(alarms.)
+440 4368 y(T)-7 b(o)22 b(enhance)e(the)h(quality)g(of)g(signature)g
+(alerts,)h(Bro)f(mak)o(es)h(use)g(of)f Fm(conte)n(xt)p
+Fr(.)29 b(There)20 b(are)i(tw)o(o)f(kinds)440 4468 y(of)g(conte)o(xt)e
+(which)i(help)f(to)h(reduce)f(the)h(number)e(of)i(f)o(alse)g(positi)n
+(v)o(es:)27 b(\002rst,)21 b(still)h(on)f(the)g(byte-le)n(v)o(el,)440
+4567 y(Bro)d(pro)o(vides)e(full)i(re)o(gular)e(e)o(xpressions)h
+(instead)h(of)f(\002x)o(ed)h(patterns.)23 b(Second,)17
+b(on)h(a)g(higher)f(le)n(v)o(el,)h(a)440 4667 y(byte-le)n(v)o(el)c
+(match)i(is)h(augmented)d(by)h(semantic)h(conte)o(xt)f(made)g(a)n(v)n
+(ailable)h(by)g(the)g(protocol)e(analysis)440 4767 y(and)20
+b(the)g(scripting)f(language.)k(Instead)d(of)g(immediately)e
+(generating)g(an)j(alert,)f(a)g(match)g(just)g(raises)440
+4866 y(an)j(e)n(v)o(ent.)31 b(By)23 b(making)e(use)i(of)f(Bro')-5
+b(s)23 b(state)g(information)e(inside)h(an)h(e)n(v)o(ent)e(handler)m(,)
+g(it)j(is)f(possible)440 4966 y(to)h(eliminate)f(irrele)n(v)n(ant)g
+(matches.)35 b(F)o(or)24 b(instance,)g(Bro)g(has)g(the)g(ability)g(to)g
+(identify)e(the)i(softw)o(are)p eop
+%%Page: 12 12
+12 11 bop 440 449 2977 2 v 589 624 a Fh(alert)34 b(tcp)h(any)f(any)h
+(->)f([a.b.0.0/16,c.d.e.0/24])e(80)659 691 y(\()i(msg:"WEB-ATTACKS)f
+(conf/httpd.conf)g(attempt";)728 757 y(nocase;)h(sid:1373;)g
+(flow:to_server,established;)728 823 y(content:"conf/httpd.conf";)e
+([...])i(\))1854 956 y Fj(\(a\))29 b(Snort)589 1144 y
+Fh(signature)34 b(sid-1373)f({)659 1211 y(ip-proto)g(==)i(tcp)659
+1277 y(dst-ip)f(==)g(a.b.0.0/16,c.d.e.0/24)659 1343 y(dst-port)f(==)i
+(80)659 1410 y(#)f(The)h(payload)f(below)g(is)h(actually)e(generated)h
+(in)h(a)659 1476 y(#)f(case-insensitive)f(format,)h(which)g(we)h(omit)f
+(here)659 1543 y(#)g(for)h(clarity.)659 1609 y(payload)f
+(/.*conf\\/httpd\\.conf/)659 1676 y(tcp-state)f(established,originator)
+659 1742 y(event)h("WEB-ATTACKS)f(conf/httpd.conf)g(attempt")589
+1808 y(})1871 1941 y Fj(\(b\))d(Bro)p 440 2037 V 893
+2203 a Fo(Figure)19 b(6:)k(Con)m(v)o(erting)d(a)f(Snort)g(signature)g
+(into)g(Bro')l(s)g(language)h(\([SP03b]\))440 2468 y
+Fr(used)27 b(by)g(an)h Fq(HTTP)f Fr(serv)o(er)-5 b(.)46
+b(If)27 b(we)h(are)f(only)g(interested)g(in)g(potentially)f(successful)
+i(attacks,)h(we)440 2568 y(can)22 b(simply)f(ignore)f(all)j(signature)d
+(matches)i(for)f Fq(IIS)h Fr(e)o(xploits)f(if)h(the)f(attack)o(ed)h
+(serv)o(er)e(is)j(running)440 2668 y(an)g Fq(Apache)g
+Fr(W)-7 b(eb)24 b(serv)o(er)-5 b(.)33 b(Other)23 b(uses)g(of)g(conte)o
+(xt)f(include)g Fm(r)m(equest/r)m(eply)h(signatur)m(es)g
+Fr(\(we)g(only)440 2767 y(report)h(an)h(alert)g(if)h(signature)e
+Fc(A)i Fr(matches)f(on)g(the)g(client)g(side)h(and)e(signature)g
+Fc(B)30 b Fr(matches)25 b(on)g(the)440 2867 y(serv)o(er)19
+b(side)i(of)f(the)h(same)f(connection\),)e(and)h(the)i
+(identi\002cation)e(of)h(e)o(xploit)f(scans)i(\(similar)f(to)h(port)440
+2966 y(scans,)f(we)h(count)e(ho)n(w)h(man)o(y)f(matches)h(a)g(certain)g
+(source)f(triggers)h(inside)g(our)f(netw)o(ork\).)440
+3301 y Fl(3.6)82 b(Connection)19 b(Summaries)440 3536
+y Fr(One)24 b(of)h(Bro')-5 b(s)25 b(most)f(useful)g(analyzers)g(is)h
+(the)g(connection)d(analyzer)-5 b(.)37 b(It)25 b(is)g(a)g(bit)g
+(unusual)e(in)i(that)440 3636 y(it)e(by)g(itself)g(does)f(not)h
+(generate)e(an)o(y)h(alerts.)33 b(Rather)m(,)22 b(for)g(each)h
+(connection,)e(the)h(analyzer)g(reports)440 3735 y(a)i(one-line)f
+(summary)f(\(see)i(Figure)g(7\))f(containing)f(a)j(time-stamp,)e
+(duration,)g(service,)h(transfered)440 3835 y(bytes)19
+b(\(in)g(terms)g(of)g(application-le)n(v)o(el)d(throughput\),)g(source)
+i(and)g(destination)g(IP)-9 b(,)19 b(and)g(a)g(summary)440
+3935 y(of)29 b(the)g(termination)f(status.)53 b(The)29
+b(latter)g(indicates,)i(for)e(e)o(xample,)h(if)g(the)f(connection)e
+(has)j(been)440 4034 y(properly)18 b(initiated)h(and)h(shut-do)n(wn,)e
+(or)h(whether)g(one)h(side)g(canceled)f(the)h(connection)e(by)h
+(sending)440 4134 y(a)25 b Fq(RESET)f Fr(pack)o(et.)38
+b(Internally)-5 b(,)24 b(these)h(summaries)f(are)g(generated)f(by)h(a)h
+(full)g Fq(TCP)g Fr(state)g(machine)440 4233 y(closely)20
+b(follo)n(wing)f(the)h(state)h(transitions)e(for)h(each)g(endpoint.)440
+4369 y(Ha)n(ving)g(connection)f(summaries,)g(we)i(can)g(retrospecti)n
+(v)o(ely)d(analyze)i(the)h(netw)o(ork)e(traf)n(\002c)i(in)f(great)440
+4468 y(detail)f(without)f(ha)n(ving)g(to)h(store)f(pack)o(et)h(traces.)
+24 b(Due)19 b(to)g(the)g(data)f(v)n(olume,)g(storing)g(traces)h(is)h
+(often)440 4568 y(infeasible)j(e)n(v)o(en)g(for)h(medium-scale)e
+(links.)36 b(Therefore,)23 b(e)n(v)o(en)g(if)h(the)g(NIDS)h(does)e(not)
+h(report)f(an)o(y)440 4668 y(malicious)e(acti)n(vity)-5
+b(,)20 b(we)h(may)g(ne)n(v)o(ertheless)e(manually)h(post-process)g(the)
+h(connection)e(summaries)440 4767 y(once)j(ne)n(w)h(information)d
+(about)i(an)h(attack)f(is)i(a)n(v)n(ailable.)33 b(In)22
+b(the)h(past,)h(this)f(has)g(pro)o(v)o(ed)d(to)j(be)g(v)o(ery)440
+4867 y(useful)d(\(see)g(Section)g(4\).)p eop
+%%Page: 13 13
+13 12 bop 440 449 2977 2 v 539 599 a Fh(13:33:53)34 b(0.412065)g(http)g
+(391)h(4608)f(10.54.63.72)f(10.138.158.250)g(SF)i(L)539
+665 y(13:33:53)f(0.166779)g(http)g(282)h(5391)f(10.190.205.95)f
+(10.60.86.182)g(RSTO)i(L)539 732 y(13:33:52)f(?)h(other-4662)e(?)i(?)g
+(10.213.195.83)e(10.252.68.126)g(S0)i(L)539 798 y(13:33:52)f(?)h(pop-3)
+f(?)h(?)f(10.199.178.2)g(10.210.72.62)f(S0)i(X)539 865
+y(13:33:53)f(0.000368953)f(http)i(?)f(?)h(10.54.16.233)e
+(10.142.182.194)g(REJ)i(X)539 931 y(13:33:52)f(0.49111)g(http)g(547)h
+(3518)f(10.80.43.190)f(10.114.206.95)g(SF)i(L)539 997
+y(13:33:53)f(0.247598)g(http)g(588)h(363)f(10.54.102.137)f(10.8.90.9)h
+(SF)g(L)539 1064 y(13:33:53)g(0.0862861)g(http)g(606)g(3659)h
+(10.54.49.247)e(10.58.190.28)g(SF)i(L)539 1130 y(13:33:53)f(0.152313)g
+(http)g(481)h(489)f(10.54.49.247)f(10.101.238.240)g(SF)i(L)539
+1197 y(13:33:52)f(?)h(other-2500)e(?)i(?)g(10.213.181.159)e
+(10.226.36.221)g(S0)h(L)539 1263 y(13:33:53)g(0.107428)g(http)g(?)h(?)g
+(10.80.43.190)e(10.147.32.236)g(REJ)h(L)539 1330 y(13:33:52)g(1.15567)g
+(http)g(933)h(1760)f(10.80.43.210)f(10.173.203.23)g(SF)i(L)539
+1396 y(13:33:52)f(?)h(http)f(?)h(?)f(10.80.38.149)g(10.170.171.85)f(S0)
+i(L)539 1462 y(13:33:52)f(?)h(other-4662)e(?)i(?)g(10.190.49.197)e
+(10.235.19.39)g(S0)i(L)539 1529 y(13:33:52)f(?)h(other-4662)e(?)i(?)g
+(10.190.49.197)e(10.212.169.68)g(S0)i(L)539 1595 y(13:33:52)f(?)h
+(other-4662)e(?)i(?)g(10.190.49.197)e(10.104.191.96)g(S0)i(L)p
+440 1745 V 1431 1911 a Fo(Figure)19 b(7:)k(Connection)d(Summaries)440
+2176 y Fn(4)99 b(Experiences)27 b(in)e(a)g(High-V)-10
+b(olume)24 b(En)l(vir)n(onment)440 2411 y Fr(W)-7 b(e)24
+b(ha)n(v)o(e)e(been)f(using)h(Bro)h(in)g(lar)o(ge-scale)e(netw)o(ork)g
+(en)m(vironments)f(for)i(roughly)e(tw)o(o)j(years)f(no)n(w)-5
+b(.)440 2511 y(First,)19 b(we)f(installed)g(it)h(at)f(the)g(122)f
+(Mbit/s)h(Internet)f(uplink)f(of)i(the)g(Saarland)f(Uni)n(v)o(ersity)-5
+b(,)16 b(German)o(y)-5 b(.)440 2610 y(In)22 b(September)e(2002,)h(we)i
+(installed)f(Bro)g(at)g(the)h(Leibniz-Rechenzentrum)17
+b(\(LRZ\),)22 b(Munich.)29 b(The)440 2710 y(LRZ)16 b(pro)o(vides)f
+(Internet)g(access)h(to)h(most)f(non-commercial)c(research)k(f)o
+(acilities)g(in)h(the)f(area)g(of)f(Mu-)440 2809 y(nich,)k(among)e
+(them)i(T)-6 b(echnical)18 b(Uni)n(v)o(ersity)g(\(TU\),)g
+(Ludwig-Maximilian-Uni)n(v)o(ersity)c(\(LMU\))19 b(and)440
+2909 y(se)n(v)o(eral)24 b(Max-Planck-)e(and)i(Fraunhofer)n
+(-Institutes.)34 b(The)23 b(LRZ)i(is)g(connected)e(to)h(the)g(Internet)
+f(by)440 3009 y(a)f(622)e(Mbit/s)i(link)f(to)g(the)h(DFN)f(\(Deutsches)
+g(F)o(orschungsnetz\),)d(the)k(German)e(research)g(netw)o(ork.)440
+3108 y(This)27 b(link)g(transfers)f(1-2)g(TB)i(of)e(data)h(each)g(day)f
+(on)h(a)n(v)o(erage.)43 b(A)28 b(lar)o(ge)e(fraction)f(of)i(the)g(v)n
+(olume)440 3208 y(is)d(due)e(to)h(the)g(domain)e Fq(*.leo.org)p
+Fr(,)h(which)h(is)g(located)f(at)i(the)f(TU)g(and)f(pro)o(vides)f
+(services)i(lik)o(e)442 3308 y(F)t(T)t(P)r(-,)29 b(I)t(R)t(C)t(-)f(and)
+c(W)-7 b(ebserv)o(ers)25 b(to)g(people)f(around)f(the)i(w)o(orld)f(\()p
+Fq(ftp.leo.org)g Fr(transfers)g(0.5-)440 3407 y(1)18
+b(TB)h(a)g(day;)f Fq(dict.leo.org)p Fr(,)f(an)h(English-German)e
+(dictionary)-5 b(,)16 b(serv)o(es)i(2-2.5)f(million)i(H)t(T)t(T)t(P)440
+3507 y(requests)25 b(per)f(day\).)38 b(At)25 b(both)g(locations,)g(we)g
+(are)g(running)d(Bro)j(on)g(FreeBSD)g(systems)h(with)f(tw)o(o)440
+3606 y(AMD)20 b(CPUs)i(and)e(one/tw)o(o)f(GB)i(of)f(memory)e(respecti)n
+(v)o(ely)-5 b(.)440 3742 y(As)17 b(a)g(research)f(group,)f(our)h(main)g
+(objecti)n(v)o(e)g(is)h(to)g(gain)f(e)o(xperience)e(with)j(netw)o(ork)e
+(intrusion)h(detec-)440 3841 y(tion)23 b(in)g(high-v)n(olume)e(en)m
+(vironments)f(and)j(to)h(impro)o(v)o(e)d(the)i(current)f
+(state-of-the-art)f(technology)-5 b(.)440 3941 y(Due)22
+b(to)h(its)g(\003e)o(xibility)-5 b(,)21 b(Bro)i(turned)d(out)i(to)h(be)
+f(an)g(ideal)g(NIDS)h(for)f(research)f(purposes.)30 b(Often,)22
+b(to)440 4041 y(test)k(a)f(ne)n(w)g(idea)g(is)h(suf)n(\002ces)f(to)g
+(write)g(a)g(ne)n(w)g(polic)o(y)f(script.)39 b(If)25
+b(this)h(insuf)n(\002cient,)f(we)g(can)g(easily)440 4140
+y(e)o(xtend)e(Bro')-5 b(s)25 b(open-source)d(core.)37
+b(W)-7 b(e)26 b(are)e(closely)g(collaborating)e(with)j(Bro')-5
+b(s)25 b(main)f(de)n(v)o(eloper)m(,)440 4240 y(and)18
+b(a)g(signi\002cant)g(part)g(of)g(our)g(w)o(ork)f(has)i(already)e(been)
+g(incorporated)f(into)i(the)g(distrib)n(ution.)23 b(Note)440
+4340 y(that)e(we)h(are)f(not)f(running)f(Bro)i(operationally)e(in)i
+(24/7)f(production)f(mode.)26 b(W)-7 b(e)23 b(are)e(concentrating)440
+4439 y(on)f(research,)f(impro)o(ving)e(the)k(system)f(rather)f(than)h
+(actually)g(chasing)f(attack)o(ers.)440 4575 y(Considering)j(the)i
+(enormous)e(amount)h(of)g(data)h(at)g(our)f(points)h(of)f(operation,)g
+(Bro)h(w)o(orks)g(remark-)440 4674 y(ably)i(well.)43
+b(On)27 b(the)f(622)f(Mbit/s)i(link)f(of)g(the)g(LRZ,)h(e)n(v)o(en)e(a)
+h(simple)h(pack)o(et)e(snif)n(fer)h(just)h(writing)440
+4774 y(all)d(pack)o(ets)f(to)h(disk)f(is)h(usually)f(not)g(able)g(k)o
+(eep)g(up)g(with)g(the)h(v)n(olume.)33 b(While)24 b(Bro)f(does)g(not)h
+(ana-)440 4873 y(lyze)d(e)n(v)o(ery)e(pack)o(et)h(\(b)n(ut)g(just)i
+(the)e(ones)h(needed)e(as)j(speci\002ed)e(in)h(its)h
+(con\002guration\),)17 b(it)22 b(performs)d(a)440 4973
+y(signi\002cant)24 b(amount)f(of)i(w)o(ork)f(\(lik)o(e)g(fully)g
+(decoding)h(H)t(T)t(T)t(P)i(sessions\).)39 b(This)25
+b(con\002rms)f(that)g(de-)p eop
+%%Page: 14 14
+14 13 bop 440 531 a Fr(creasing)19 b(the)i(high-v)n(olume)c(pack)o(et)j
+(stream)g(to)g(a)h(lo)n(w-v)n(olume)d(e)n(v)o(ent)h(stream)h(is)h
+(indeed)f(feasible.)440 667 y(Ne)n(v)o(ertheless,)30
+b(depending)c(on)i(the)g(time)h(of)f(day)g(and)g(what)h(analyzers)f
+(are)g(acti)n(v)n(ated,)i(Bro)e(may)440 766 y(not)d(be)h(able)f(to)h(k)
+o(eep)f(up)g(with)g(the)h(traf)n(\002c)f(without)g(dropping)e(pack)o
+(ets.)40 b(F)o(or)25 b(e)o(xample,)g(enabling)440 866
+y(serv)o(er)n(-side)31 b(H)t(T)t(T)t(P)i(decoding)28
+b(at)i(noon)f(for)h(all)g(subnets)g(serv)o(ed)f(by)h(the)g(LRZ)g(turns)
+g(out)g(to)g(be)440 966 y(infeasible.)42 b(Y)-8 b(et,)28
+b(analyzing)c(only)i(the)g(client-side)g(w)o(orks)f(\002ne)i(of)f(most)
+g(the)g(time)g(\(in)g(particular)440 1065 y(this)k(means)e(that)h(Bro)h
+(can)e(e)o(xtract)h(requested)e(URIs\).)52 b(W)-7 b(e)31
+b(are)e(currently)e(e)o(xperimenting)f(with)440 1165
+y(load-le)n(v)o(el)f(mechanisms,)j(which)f(selecti)n(v)o(ely)f(disable)
+h(certain)g(analyzers)f(based)g(on)h(the)g(current)440
+1264 y(netw)o(ork)20 b(load.)28 b(Similarily)-5 b(,)20
+b(we)i(can)f(reduce)f(the)h(load)g(by)g(temporarily)e(ignoring)g
+(certain)i(subnets.)440 1364 y(F)o(or)f(e)o(xample,)e(at)j(the)f(LRZ)h
+(we)f(can)g(e)o(xclude)f Fq(*.leo.org)p Fr(.)440 1499
+y(One)24 b(of)f(our)g(most)h(pre)n(v)n(alent)e(problems)h(is)h(the)g
+(lar)o(ge)f(amount)f(of)i(memory)e(Bro)i(needs.)35 b(K)n(eeping)440
+1599 y(per)n(-connection)19 b(state)k(is)g(naturally)e(e)o(xpensi)n(v)o
+(e)f(if)i(you)f(re)o(gularly)f(encounter)g(300k-600k)f(connec-)440
+1699 y(tions)26 b(per)f(hour)-5 b(.)41 b(Thus,)27 b(one)e(emphasis)g
+(is)i(to)f(impro)o(v)o(e)e(the)i(state-management)d(by)i(e)o(xpiring)f
+(old)440 1798 y(state)31 b(more)f(aggressi)n(v)o(ely)-5
+b(,)31 b(possibly)f(without)g(opening)e(doors)i(for)g(attack)o(ers.)56
+b(This)31 b(is)g(particu-)440 1898 y(lar)g(important)f(during)f(peak)i
+(loads.)57 b(While)31 b(most)h(netw)o(ork)d(technology)g(can)i(be)g
+(designed)f(for)440 1998 y(the)25 b(a)n(v)o(erage)f(case,)j(a)e(NIDS)h
+(has)f(to)h(w)o(ork)e(reliably)g(e)n(v)o(en)h(in)g(the)g(w)o(orst)g
+(case)h(-)f(which)g(can)g(be)g(in-)440 2097 y(tentionally)i(pro)o(v)n
+(ok)o(ed)f(by)h(an)i(attack)o(er)-5 b(.)49 b(An)28 b(e)o(xtreme)f(e)o
+(xample)g(are)h(denial-of-service)d(attacks.)440 2197
+y Fq(irc.leo.org)g Fr(is)i(a)g(re)o(gular)d(victim)i(of)g
+Fq(SYN)p Fr(-Floods.)42 b(During)25 b(a)h(typical)g(attack,)h(we)g(see)
+g(2-3)440 2296 y(million)g Fq(SYN)g Fr(pack)o(ets)f(per)h(minute.)45
+b(Bro)27 b(w)o(ould)f(normally)g(create)h(state)g(for)g(each)g
+Fq(SYN)p Fr(,)f(which)440 2396 y(w)o(ould)c(e)o(xhaust)g(the)g(a)n(v)n
+(ailable)g(memory)f(in)i(a)g(couple)f(of)g(minutes.)32
+b(Therefore,)21 b(we)i(implemented)440 2496 y(the)f Fq(SYN)p
+Fr(-Flood)e(analyzer)h(\(see)h(Section)g(3.4\).)29 b(After)22
+b(noticing)f(the)h(\003ood,)f(it)i(starts)g(to)f(sample)g(the)440
+2595 y(pack)o(ets)e(to)g(the)g(victim.)440 2731 y(Comparing)27
+b(to)i(Snort,)i(we)e(see)h(that)f(Bro)g(tak)o(es)g(a)g(completely)f
+(dif)n(ferent)f(approach)g(to)i(netw)o(ork)440 2830 y(intrusion)20
+b(detection.)26 b(Ne)n(v)o(ertheless,)20 b(we)h(implemented)e(a)j
+(signature)e(analyzer)f(\(see)j(Section)e(3.5\),)440
+2930 y(which)29 b(pro)o(vides)e(functionality)g(similar)i(to)h(Snort.)
+51 b(It)29 b(e)n(v)o(en)f(le)n(v)o(erages)g(Snort')-5
+b(s)29 b(comprehensi)n(v)o(e)440 3030 y(signature)17
+b(library)-5 b(.)23 b(While)c(e)n(v)n(aluating)d(Bro')-5
+b(s)19 b(signatures,)e(we)i(encountered)d(se)n(v)o(eral)h(limitations)h
+(of)440 3129 y(Snort.)38 b(F)o(or)24 b(instance,)i(its)g(protocol)d
+(decoders)g(are)i(v)o(ery)e(limited:)34 b(the)27 b(T)t(C)t(P)h(stream)d
+(reassembla-)440 3229 y(tion)20 b(is)h(incomplete,)e(and)h(the)i(H)t(T)
+t(T)t(P)h(decoder)c(only)g(considers)h(requests)g(at)h(the)f(start)h
+(of)f(a)h(pack)o(et.)440 3328 y(The)k(latter)g(is)h(not)f(suf)n
+(\002cient)g(for)g(pipelined)e(connections)h(as)i(used)f(in)i(H)t(T)t
+(T)t(P)j(1)t(.)t(1)r(.)40 b(Bro')-5 b(s)25 b(proto-)440
+3428 y(col)e(decoding)e(is)j(f)o(ar)f(more)f(sophisticated.)33
+b(Another)22 b(problem)f(of)i(Snort)g(is)h(its)g(signature)e(library:)
+440 3528 y(while)27 b(it)g(is)g(v)o(ery)f(comprehensi)n(v)o(e,)e(the)j
+(quality)f(of)g(man)o(y)f(of)h(the)h(signatures)f(is)h(quite)f(lo)n(w)
+-5 b(.)44 b(This)440 3627 y(leads)23 b(to)f(man)o(y)g(f)o(alse)h
+(alarms.)32 b(F)o(or)22 b(some)g(attacks,)h(there)f(are)h(se)n(v)o
+(eral)f(signatures)f(which)h(dif)n(fer)g(in)440 3727
+y(their)g(quality)-5 b(.)30 b(F)o(or)22 b(some)g(signatures,)g(their)g
+(meta-information)d(is)24 b(wrong.)30 b(Of)22 b(course,)g(if)h(we)f
+(just)440 3827 y(con)m(v)o(ert)i(Snort')-5 b(s)27 b(signatures)e(into)h
+(Bro')-5 b(s)27 b(language,)f(we)h(ha)n(v)o(e)f(to)g(li)n(v)o(e)h(with)
+f(some)g(of)h(the)f(limita-)440 3926 y(tions.)f(Therefore,)17
+b(in)j(the)g(future)e(we)i(hope)f(to)h(b)n(uild)f(a)h(set)g(of)g
+(high-quality)d(signatures)i(which)g(tak)o(e)440 4026
+y(adv)n(antage)e(of)j(Bro')-5 b(s)20 b(features.)k(But)19
+b(while)h(we)g(may)f(be)g(able)g(to)h(jump)e(start)i(this,)g(we)g(will)
+g(need)f(the)440 4126 y(help)h(of)g(the)g(community)e(to)i(achie)n(v)o
+(e)f(a)i(comprehensi)n(v)o(e)c(signature)i(archi)n(v)o(e.)440
+4261 y(One)27 b(aspect)g(of)g(using)f(Bro)h(is)h(that)f(it)h(needs)e
+(to)i(be)f(taylored)e(to)i(the)g(local)g(en)m(vironment.)42
+b(While)440 4360 y(systems)25 b(lik)o(e)g(Snort)g(basically)f(just)i
+(need)e(to)h(kno)n(w)e(the)i(local)g(IP)g(addresses)g(and)f(perhaps)f
+(which)440 4460 y(part)g(of)h(the)g(signature)e(library)h(we)h(w)o(ant)
+g(to)g(use,)h(we)f(ha)n(v)o(e)f(to)h(tell)h(Bro)e(more)g(about)g(our)g
+(netw)o(ork)440 4560 y(to)e(use)f(it)i(ef)n(fecti)n(v)o(ely)-5
+b(.)23 b(Most)e(of)f(the)h(def)o(ault)e(polic)o(y)h(scripts)h(need)e
+(to)i(be)g(adjusted,)e(and)h(we)h(ha)n(v)o(e)f(to)440
+4659 y(write)j(o)n(wn)f(scripts)h(which)f(de\002ne)g(our)g(speci\002c)h
+(security)f(polic)o(y)-5 b(.)31 b(While)23 b(ability)g(adds)f(\003e)o
+(xibility)-5 b(,)440 4759 y(it)21 b(requires)e(time.)440
+4894 y(The)i(more)g(we)h(tell)g(Bro)g(about)e(our)h(netw)o(ork)g(the)g
+(better)g(it)i(can)e(identify)g(malicious)g(acti)n(vity)-5
+b(.)28 b(This)p eop
+%%Page: 15 15
+15 14 bop 440 531 a Fr(raises)19 b(the)f(question)g(if)g(a)h(location)e
+(lik)o(e)i(the)f(uplink)f(of)h(the)h(LRZ)f(is)i(indeed)d(a)i(good)e
+(place)h(to)g(deplo)o(y)440 631 y(Bro.)30 b(On)22 b(the)f(internal)g
+(side)h(of)g(the)g(router)m(,)e(there)h(are)h(man)o(y)f(subnets)g(of)g
+(v)n(arying)f(size,)j(all)f(admin-)440 731 y(istrated)27
+b(independently)d(with)j(dif)n(ferent)e(security)h(policies)h(\(if)f
+(an)o(y)g(at)i(all\).)45 b(As)27 b(a)g(consequence,)440
+830 y(it)h(is)g(impossible)f(to)g(tell)h(Bro)f(e)o(xactly)f(what)h(is)h
+(indeed)e(accepted)h(acti)n(vity)-5 b(.)45 b(On)27 b(the)g(other)f
+(hand,)440 930 y(there)g(are)h(attacks)g(which)g(are)g(easiest)h(to)f
+(recognize)e(at)i(this)h(le)n(v)o(el;)i(consider)c(attacks)h(which)f
+(are)440 1029 y(not)e(aimed)f(at)h(a)h(particular)d(host)i(b)n(ut)g
+(scan)g(a)g(lar)o(ge)f(range)g(of)h(the)g(IP)g(space)g(for)f(potential)
+g(victims)440 1129 y(\(\223script)g(kiddies\224)g(and)g(w)o(orms)g
+(come)g(to)h(mind\).)33 b(So,)25 b(the)e(answer)g(probably)f(lies)i(in)
+g(between:)31 b(to)440 1229 y(get)25 b(the)g(best)h(of)f(both)f(the)h
+(w)o(orlds,)h(we)g(w)o(ould)e(lik)o(e)i(to)f(install)h(Bro)f(at)h(se)n
+(v)o(eral)e(points)h(located)f(on)440 1328 y(dif)n(ferent)e(le)n(v)o
+(els)i(of)f(the)h(netw)o(ork:)31 b(from)23 b(a)h(local)g(subnet)f(of)h
+(w)o(orkstations)f(to)h(the)f(backbone.)34 b(An)440 1428
+y(interesting)19 b(question)g(is)i(ho)n(w)e(to)h(coordinate)e(and)i
+(correlate)f(dif)n(ferent)f(instances)i(of)f(a)i(NIDS.)f(This)440
+1528 y(is)h(part)f(of)g(our)f(ongoing)f(research.)440
+1663 y(Bro')-5 b(s)28 b(connection)c(summaries)j(\(see)g(Section)g
+(3.6\))f(pro)o(v)o(ed)f(highly)g(v)n(aluable)h(in)h(March)g(2003)e(at)
+440 1763 y(Saarland)c(Uni)n(v)o(ersity)-5 b(.)28 b(Attack)o(ers)21
+b(compromised)e(se)n(v)o(eral)i(machines)g(on)g(the)h(campus)f(by)g(e)o
+(xploit-)440 1862 y(ing)31 b(a)g(b)n(ug)g(contained)e(in)i(certain)g
+Fq(SSH)g Fr(serv)o(er)f(v)o(ersions)g([Ssh].)57 b(A)32
+b(fe)n(w)f(days)f(later)m(,)k(the)d(com-)440 1962 y(promised)20
+b(systems)j(started)e(to)h(participate)f(in)h(distrib)n(uted)f
+(denial-of-service)e(attacks.)30 b(While)22 b(the)440
+2061 y(netw)o(ork)28 b(administrators)f(were)i(able)g(to)g(identify)e
+(some)i(of)g(the)g(hosts)g(by)f(observing)f(enormous)440
+2161 y(amounts)22 b(of)h(transfered)f(data,)h(it)h(w)o(as)g(hard)e(to)i
+(tell)f(if)h(there)f(were)g(more)f(of)h(them,)g(just)h(w)o(aiting)f(to)
+440 2261 y(be)d(acti)n(v)n(ated.)k(Kno)n(wing)19 b(some)h(of)g(the)g
+(victims,)g(we)h(used)f(Bro')-5 b(s)21 b(connection)d(summaries)h(to)i
+(iden-)440 2360 y(tify)g(the)j(S)t(S)t(H)h(sessions)d(which)f(carried)g
+(the)g(initial)h(e)o(xploits.)29 b(W)-7 b(e)22 b(then)g(check)o(ed)e
+(for)h(connections)440 2460 y(to)j(other)g(internal)f(hosts)i(sho)n
+(wing)e(similar)h(characteristics.)36 b(In)24 b(f)o(act,)h(we)g(found)d
+(se)n(v)o(eral)i(more)f(of)440 2560 y(them)d(and)f(all)i(pro)o(v)o(ed)d
+(to)i(be)h(compromised.)440 2695 y(Finally)-5 b(,)19
+b(used)h(Bro)g(in)h(areas)f(of)g(research)f(other)g(than)h(netw)o(ork)f
+(security)-5 b(,)19 b(too.)24 b(Its)d(po)n(werful)d(proto-)440
+2795 y(col)h(decoding)d(can)j(be)f(ef)n(fecti)n(vly)f(used)i(for)f(a)h
+(lar)o(ge)e(range)h(of)g(traf)n(\002c)h(analysis)f(tasks.)25
+b(F)o(or)19 b(e)o(xample,)440 2894 y(to)g(identify)e(certain)h
+(characteristics)h(of)f(W)-7 b(eb)19 b(sessions,)h(we)f(instrumented)e
+(Bro)h(to)h(log)f(the)h(rele)n(v)n(ant)440 2994 y(parts)25
+b(of)f(the)j(H)t(T)t(T)t(P)g(communication)22 b(by)j(simply)f(writing)g
+(a)h(polic)o(y)f(script.)39 b(Similarly)-5 b(,)25 b(connec-)440
+3093 y(tion)d(summaries)g(are)g(an)g(in)m(v)n(aluable)f(source)g(for)h
+(traf)n(\002c)g(statistics.)33 b(Of)23 b(late,)g(Bro)g(e)n(v)o(en)e
+(contains)h(a)440 3193 y(frame)n(w)o(ork)f(for)h(anon)o(ymizing)d(pack)
+o(et)j(traces.)33 b(Such)22 b(traces)h(may)g(e)n(v)o(entually)d(be)j
+(collected)f(in)h(an)440 3293 y(archi)n(v)o(e)c(of)h(openly-a)n(v)n
+(ailable)d(real-w)o(orld)i(traces.)440 3644 y Fn(5)99
+b(Futur)n(e)27 b(W)-7 b(ork)440 3879 y Fr(The)24 b(protocol)f
+(analyzers)g(are)h(Bro')-5 b(s)25 b(heart,)g(and)f(we)h(are)f(in)g(the)
+h(process)f(of)g(implementing)e(some)440 3979 y(more)28
+b(of)i(them.)51 b(Currently)-5 b(,)30 b(we)g(are)f(w)o(orking)f(on)h(a)
+i(S)t(S)t(L)t(/)t(T)t(L)t(S)i(analyzer)28 b(which)h(will)h(pro)o(vide)
+440 4078 y(access)16 b(to)g(the)f(certi\002cates)h(e)o(xchanged)c(by)j
+(the)h(parties.)23 b(Other)15 b(candidates)f(are)k(P)t(O)t(P)r(,)g(I)t
+(M)t(A)t(P)r(,)g(I)t(R)t(C)r(,)442 4178 y(N)t(E)t(T)t(B)t(I)t(O)t(S)t
+(/)t(S)t(M)t(B)33 b(\(some)c(w)o(ork)f(has)h(already)f(been)h(done)f
+(on)g(this\),)33 b(S)t(N)t(M)t(P)r(,)e(and)d(the)h(v)n(arious)440
+4277 y(peer)n(-to-peer)18 b(protocols.)440 4413 y(Making)d(Bro)h(more)e
+(rob)n(ust)i(during)e(\003oods)h(and)g(\003ash-cro)n(wds)g(is)i(rather)
+e(important)f(in)i(high-v)n(olume)440 4512 y(en)m(vironments.)23
+b(Possible)e(approaches)d(are)i(further)f(optimization)g(of)h(the)h
+(state-management,)d(and)440 4612 y(a)28 b(more)e(systematic)h(inte)o
+(gration)e(of)i(pack)o(et)g(sampling.)45 b(T)-7 b(o)27
+b(a)n(v)n(oid)g(opening)e(doors)h(to)h(attack)o(ers,)440
+4712 y(this)21 b(needs)f(to)g(be)g(done)f(on)h(a)h(sound)e(theoretical)
+g(base.)440 4847 y(Bro)g(already)f(contains)h(preliminary)e(support)g
+(for)i Fm(vulner)o(ability)f(pr)l(o\002les)h Fr(which)f(is)i(the)f(set)
+h(of)f(soft-)440 4947 y(w)o(are)26 b(a)h(particular)e(host)h(is)h
+(running.)41 b(If)26 b(Bro)h(kno)n(ws)e(the)i(pro\002le)e(of)h(a)h
+(host)f(\226)g(either)g(by)g(manual)p eop
+%%Page: 16 16
+16 15 bop 440 531 a Fr(con\002guration)22 b(or)m(,)j(more)f
+(interestingly)-5 b(,)24 b(by)g(deducing)f(it)i(from)f(the)h(traf)n
+(\002c)f(\226)h(it)g(can)g(use)g(this)g(pro-)440 631
+y(\002le)31 b(to)f(estimate)g(the)f(se)n(v)o(erity)g(of)h(an)g(attack.)
+53 b(Currently)-5 b(,)31 b(Bro)f(is)h(able)e(to)h(identify)h(H)t(T)t(T)
+t(P)i(and)442 731 y(S)t(S)t(H)27 b(softw)o(are,)d(b)n(ut)g(we)g(will)g
+(further)f(e)o(xtend)f(this)i(to)g(include)f(more)g(protocols.)34
+b(W)-7 b(e)25 b(plan)e(to)h(de-)440 830 y(sign)i(an)f(uni\002ed)g
+(frame)n(w)o(ork)f(on)h(the)h(script)f(le)n(v)o(el,)i(and)e(to)h(inte)o
+(grate)e(passi)n(v)o(e)h(OS)i(\002ngerprinting)440 930
+y(techniques.)440 1065 y(Most)21 b(ambitiously)-5 b(,)19
+b(we)j(w)o(ould)e(lik)o(e)h(to)g(see)h(se)n(v)o(eral)e(Bro)h(systems)g
+(running)e(at)i(dif)n(ferent)f(locations)440 1165 y(of)26
+b(the)h(netw)o(ork)f(to)g(cooperate.)43 b(T)-7 b(o)27
+b(achie)n(v)o(e)e(this,)k(Bro)e(needs)f(a)h(communication)d(interf)o
+(ace)i(and)440 1264 y(ne)n(w)17 b(techniques)g(for)f(globally)h
+(correlating)e(local)j(e)n(v)o(ents.)23 b(Additionally)-5
+b(,)16 b(Bro)i(could)e(include)h(more)440 1364 y(data)22
+b(sources)f(in)g(its)i(analysis.)29 b(F)o(or)22 b(e)o(xample,)e(while)i
+(we)g(may)f(not)g(ha)n(v)o(e)g(access)h(to)g(the)g(pack)o(ets)f(of)440
+1464 y(a)26 b(netw)o(ork,)f(we)h(may)f(be)h(able)f(to)h(get)f(NetFlo)n
+(w)h([Cis])g(records)e(from)h(a)h(router)-5 b(.)40 b(Theoretically)-5
+b(,)24 b(it)440 1563 y(should)19 b(be)h(possible)g(to)h(e)o(xtend)d
+(some)i(of)g(Bro')-5 b(s)21 b(parts)f(to)g(w)o(ork)g(on)g(\003o)n(w)g
+(information.)440 1699 y(Independent)13 b(of)k(all)g(these)f
+(enhancements,)f(Bro)h(needs)g(some)h(w)o(ork)e(to)i(mak)o(e)f(it)h(a)g
+(production-le)n(v)o(el)440 1798 y(system)24 b(ef)n(fecti)n(v)o(ely)e
+(deplo)o(yable)g(by)i(people)f(who)g(are)h(not)f(f)o(amiliar)h(with)g
+(its)h(internals.)36 b(Reading)440 1898 y(Bro')-5 b(s)18
+b(mailing)f(list,)i(there)e(are)h(some)f(issues)i(unf)o(amiliar)d
+(users)i(re)o(gularly)d(stumble)i(across.)24 b(Among)440
+1998 y(them)i(are)g(a)g(lack)g(of)g(introductory)d(documentation)2019
+1967 y Fj(2)2048 1998 y Fr(,)28 b(portability)c(problems,)i(and)g
+(con\002guration)440 2097 y(dif)n(\002culties.)d(These)15
+b(problems)g(are)g(mainly)g(due)g(to)g(the)h(limited)f(amount)g(of)g
+(resources)g(a)n(v)n(ailable)g(for)440 2197 y(a)24 b(research)f
+(system.)35 b(T)-7 b(o)24 b(promote,)f(maintain,)g(and)g(e)o(xtend)f
+(Bro,)j(an)o(y)e(help)g(from)f(the)i(community)440 2296
+y(is)d(greatly)e(appreciated.)24 b(Similarily)-5 b(,)19
+b(an)o(y)g(feedback)g(about)g(deplo)o(ying)f(Bro)i(is)h(welcome.)440
+2648 y Fn(6)99 b(Conclusion)440 2883 y Fr(W)-7 b(e)19
+b(present)e(Bro,)g(a)h(po)n(werful)e(b)n(ut)i(still)g(lar)o(gely)f
+(unkno)n(wn)e(open)h(source)h(netw)o(ork)f(intrusion)h(detec-)440
+2982 y(tion)k(system.)27 b(It)21 b(is)h(designed)e(with)h(three)g(main)
+f(goals)h(in)g(mind:)26 b(ef)n(\002cienc)o(y)-5 b(,)19
+b(rob)n(ustness,)i(and)f(sep-)440 3082 y(aration)i(of)h(polic)o(y)f
+(from)g(mechanisms.)33 b(T)-7 b(o)24 b(achie)n(v)o(e)e(these,)i(a)f
+(wide)g(v)n(ariety)g(of)f(protocol-speci\002c)440 3182
+y(analyzers)h(decode)f(netw)o(ork)h(pack)o(ets.)35 b(The)o(y)22
+b(raise)i(e)n(v)o(ents)f(for)h(rele)n(v)n(ant)e(acti)n(vity)h(which)g
+(are)h(pro-)440 3281 y(cessed)h(by)f(user)n(-supplied)e(handlers.)37
+b(Thus,)24 b(Bro)h(abstracts)f(from)g(a)g(high-v)n(olume)e(traf)n
+(\002c)i(stream)440 3381 y(to)c(a)h(lo)n(w-v)n(olume)d(stream)i(of)g(e)
+n(v)o(ents)g(suitable)g(for)f(more)h(cpu-intensi)n(v)o(e)e(processing.)
+440 3516 y(W)-7 b(e)19 b(are)f(successfully)g(deplo)o(ying)e(Bro)i(in)g
+(a)g(lar)o(ge-scale)f(netw)o(ork)g(en)m(vironment.)k(Closely)d
+(collabo-)440 3616 y(rating)e(with)i(Bro')-5 b(s)17 b(main)g(de)n(v)o
+(eloper)m(,)e(se)n(v)o(eral)h(of)h(our)f(e)o(xtensions)g(ha)n(v)o(e)g
+(already)g(been)h(incorporated)440 3715 y(into)k(the)g(distrib)n
+(ution.)26 b(Ne)n(v)o(ertheless,)20 b(Bro)i(is)g(still)g(a)f(research)g
+(system.)28 b(Contrib)n(utors)19 b(are)i(needed)440 3815
+y(to)f(mak)o(e)g(it)h(an)f(production-ready)c(system.)440
+4166 y Fn(7)99 b(Ackno)o(wledgments)440 4401 y Fr(W)-7
+b(e)31 b(w)o(ould)e(lik)o(e)h(to)g(thank)f(the)h
+(Leibniz-Rechenzentrum,)e(Munich,)j(German)o(y)-5 b(,)30
+b(and)f(the)h(Rech-)440 4501 y(nerbetriebsgruppe)e(of)k(the)g(Saarland)
+f(Uni)n(v)o(ersity)-5 b(,)33 b(Saarbr)7 b(\250)-35 b(uck)o(en,)32
+b(German)o(y)-5 b(,)33 b(for)e(enabling)g(our)440 4601
+y(e)o(xperiments)21 b(with)j(Bro)f(and)g(their)g(help)g(in)g
+(understanding)e(the)i(netw)o(ork)f(en)m(vironments.)32
+b(W)-7 b(e)24 b(are)440 4700 y(in)c(debt)f(to)g(V)-9
+b(ern)19 b(P)o(axson)g(for)g(his)h(continuous)d(support)i(of)g(our)g(w)
+o(ork)g(with)g(Bro.)25 b(Finally)-5 b(,)19 b(we)h(thank)440
+4800 y(V)-5 b(inay)17 b(Aggarw)o(al,)g(Holger)f(Dre)o(ger)h(and)g(Anja)
+h(Feldmann)e(for)h(their)g(v)n(aluable)g(suggestions)f(on)i(ho)n(w)440
+4899 y(to)i(impro)o(v)o(e)e(this)j(presentation.)p 440
+4971 1182 4 v 531 5026 a Fi(2)560 5050 y Fk(Bro)c(is)g(accompanied)j
+(by)d(a)g(rather)h(e)o(xtensi)n(v)o(e)i(reference)g(manual,)d(although)
+j(some)c(parts)i(of)f(it)h(are)f(a)g(bit)h(outdated.)p
+eop
+%%Page: 17 17
+17 16 bop 440 531 a Fn(Refer)n(ences)440 747 y Fo([Ber96])54
+b(Daniel)19 b(J.)g(Bernstein.)27 b(SYN)18 b(cookies.)28
+b Fg(http://cr.yp.to/syncookies.html)p Fo(,)13 b(1996.)440
+897 y([Bro])124 b(Bro.)27 b Fg(http://www.icir.org/vern/bro-)t
+(info.html)p Fo(.)440 1046 y([Cis])136 b(Cisco)72 b(Systems)f(Inc.)196
+b(NetFlo)n(w)71 b(Services)g(and)i(Applications)f(-)f(White)g(paper)l
+(.)726 1129 y Fg(http://www.cisco.com/warp/public/cc/pd/ios)o(w/ioft)o
+(/neflc)o(t/)726 1212 y(tech/napps_wp.h\045tm)p Fo(.)440
+1362 y([Cv)o(e])117 b(CVE-2000-0778.)154 b Fg
+(http://www.cve.mitre.org/cgi-)t(bin/cvenam)o(e.cgi?)726
+1445 y(name=2000-)t(0778)p Fo(.)440 1594 y([Jac99])67
+b(Kathleen)20 b(Jackson.)28 b(Intrusion)19 b(Detection)g(System)g
+(Product)g(Surv)o(e)o(y)-5 b(.)26 b(T)-5 b(echnical)19
+b(Report)g(LA-UR-)726 1677 y(99-3883,)i(Los)e(Alamos)g(National)g
+(Laboratory)-5 b(,)19 b(June)h(1999.)440 1826 y([P)o(ax99])51
+b(V)-8 b(ern)24 b(P)o(axson.)43 b(Bro:)33 b(A)24 b(System)g(for)f
+(Detecting)i(Netw)o(ork)f(Intruders)g(in)g(Real-T)m(ime.)43
+b Fb(Computer)726 1910 y(Networks)p Fo(,)19 b
+(31\(23\22624\):2435\2262463,)24 b(1999.)440 2059 y([P)o(ax02])51
+b(V)-8 b(ern)19 b(P)o(axson.)28 b Fb(The)18 b(Br)m(o)h(0.8)g(User)g
+(Manual)p Fo(,)h(2002.)440 2208 y([Pca])128 b Fg(libpcap)p
+Fo(.)26 b Fg(http://www.tcpdump.org)p Fo(.)440 2358 y([PN98])66
+b(Thomas)22 b(H.)f(Ptacek)h(and)g(T)m(imothy)g(N.)f(Ne)n(wsham.)36
+b(Insertion,)22 b(Ev)n(asion,)g(and)h(Denial)e(of)h(Service:)726
+2441 y(Eluding)k(Netw)o(ork)g(Intrusion)f(Detection.)47
+b(T)-5 b(echnical)25 b(report,)i(Secure)e(Netw)o(orks,)i(Inc.,)f
+(January)726 2524 y(1998.)440 2673 y([Roe99])42 b(Martin)28
+b(Roesch.)55 b(Snort:)40 b(Lightweight)27 b(Intrusion)h(Detection)g
+(for)f(Netw)o(orks.)55 b(In)27 b Fb(Pr)m(oceedings)726
+2756 y(of)g(the)g(13th)g(Confer)m(ence)h(on)f(Systems)g(Administr)o
+(ation)g(\(LISA-99\))p Fo(,)g(pages)h(229\226238.)g(USENIX)726
+2839 y(Association,)20 b(No)o(v)o(ember)f(1999.)440 2989
+y([SP03a])45 b(Umesh)30 b(Shankar)f(and)g(V)-8 b(ern)29
+b(P)o(axson.)58 b(Acti)n(v)o(e)29 b(Mapping:)44 b(Resisting)28
+b(NIDS)g(Ev)n(asion)h(Without)726 3072 y(Altering)19
+b(Traf)n(\002c.)26 b(In)19 b Fb(Pr)m(oc.)f(IEEE)g(Symposium)i(on)f
+(Security)h(and)g(Privacy)f Fa(\(to)f(appear\))p Fo(,)i(2003.)440
+3221 y([SP03b])41 b(Robin)31 b(Sommer)e(and)i(V)-8 b(ern)29
+b(P)o(axson.)63 b(Enhancing)31 b(Byte-Le)n(v)o(el)e(Netw)o(ork)i
+(Intrusion)f(Detection)726 3304 y(Signatures)20 b(with)e(Conte)o(xt.)27
+b Fa(In)19 b(submission)p Fo(,)h(2003.)440 3454 y([Ssh])128
+b(V)-6 b(ulnerability)20 b(Note)f(VU#945216.)29 b Fg
+(http://www.kb.cert.org/vuls/id/945216)p Fo(.)440 3603
+y([ZP00])74 b(Y)l(in)15 b(Zhang)h(and)g(V)-8 b(ern)15
+b(P)o(axson.)j(Detecting)e(Stepping)f(Stones.)k(In)c
+Fb(Pr)m(oceedings)h(of)f(the)g(9th)g(USENIX)726 3686
+y(Security)22 b(Symposium)g(\(SECURITY-00\))p Fo(,)e(pages)i
+(171\226184.)i(The)d(USENIX)f(Association,)i(August)726
+3769 y(2000.)p eop
+%%Trailer
+end
+userdict /end-hook known{end-hook}if
+%%EOF
