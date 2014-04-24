@@ -1,0 +1,44 @@
+<!doctype html>
+<head>
+	<LINK REL=STYLESHEET TYPE="text/css" HREF="http://delivery.acm.org.edgesuite.net/dl.css">
+	<title>404 - File Not Found in The Digital Library</title>
+</head>
+
+<body>
+
+<div style="width:940px; margin-left: auto; margin-right: auto; text-align:left">
+
+    <div style=" background-color:#FFC; font-size:32px; font-family:Arial, Helvetica, sans-serif; width:940px;">
+        <img src="http://delivery.acm.org.edgesuite.net/ACMDL_Logo.jpg" alt="ACM DL" style="border:0px; vertical-align:middle" />
+    <span style="padding-left:20px;">404 Error - File Not Found</span>
+    </div>
+    
+    <div align="left">
+    	<h1>We are sorry ...</h1>
+    </div>
+    
+    <p style="font-size:18px; font-family:Arial, Helvetica, sans-serif; margin-bottom:100px;">
+    ... but the URL you have requested was not found.<br />
+    To find what your are looking for please browse or search the <a href="http://dl.acm.org/">ACM Digital Library</a>.
+    <br /><br />
+    We apologize for this inconvenience.  
+    <br /><br />
+        
+    Please contact us with any questions or concerns regarding this matter: 
+    <a href="mailto:portal-feedback@hq.acm.org?subject=404 - Problem">portal-feedback@hq.acm.org</a>
+  	
+    </p>
+    
+    
+    <div class="footerbody" align="center" >
+        The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2010 ACM, Inc.<br />
+        <a href="http://www.acm.org/publications/policies/usage">Terms of Usage</a>&nbsp;&nbsp;
+        <a href="http://www.acm.org/about/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;
+        <a href="http://www.acm.org/about/code-of-ethics">Code of Ethics</a>&nbsp;&nbsp;	  
+        <a href="http://www.acm.org/about/contact-us">Contact Us</a>
+    </div> 
+
+
+</div>
+</body>
+</html>
